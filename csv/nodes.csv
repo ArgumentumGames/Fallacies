@@ -1,0 +1,907 @@
+!;
+
+!key;family;rel;carte;shape;image;latin;image;text_fr;text_en;desc_fr;desc_en;example_fr;example_en;proverbe;link_fr;link_en;label
+
+*root;Arguments fallacieux;;;diamond;;;;Arguments fallacieux;;;;;;;https://fr.wikipedia.org/wiki/Sophisme;;Arguments fallacieux
+1;Insuffisance;;;square;;;;Insuffisance;;;;;;;;;Insuffisance
+1.1;Insuffisance;;;circle;;;;Argument désinvolte;;;;;;;;;Argument désinvolte
+1.1.1;Insuffisance;;;circle;;;;Discours baclé;;;;;;;;;Discours baclé
+1.1.1.1;Insuffisance;;;circle;;;;Preuve anecdotique;;;;;;;http://rationalwiki.org/wiki/Anecdotal_evidence;;Preuve anecdotique
+1.1.1.1.1;Insuffisance;;;circle;;;;Argument par ouïe dire;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/52/Argument-from-Hearsay;;Argument par ouïe dire
+1.1.1.1.2;Insuffisance;;;circle;;;;Hypothèse contraire aux faits;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/106/Hypothesis-Contrary-to-Fact;;Hypothèse contraire aux faits
+1.1.1.1.3;Insuffisance;;;circle;;;;Sophisme pragmatique;;;;;;;http://rationalwiki.org/wiki/Pragmatic_fallacy;;Sophisme pragmatique
+1.1.1.1.3.1;Insuffisance;;;circle;;;;La pendule cassée;;;;;;;http://rationalwiki.org/wiki/Stopped_clock;;La pendule cassée
+1.1.1.1.4;Insuffisance;;;circle;;;;Argument de l'ami;;;;;;;http://rationalwiki.org/wiki/Argument_de_l%27ami;;Argument de l'ami
+1.1.1.1.5;Insuffisance;;;circle;;;;Je sais quand je le vois;;;;;;;https://en.wikipedia.org/wiki/I_know_it_when_I_see_it;;Je sais quand je le vois
+1.1.1.1.6;Insuffisance;;;circle;;;;Appel à la fiction;;;;;;;http://rationalwiki.org/wiki/Generalization_from_fictional_evidence;;Appel à la fiction
+1.1.1.2;Insuffisance;;;circle;;;;Pratique courante;;;;;;;http://www.nizkor.org/features/fallacies/appeal-to-common-practice.html;;Pratique courante
+1.1.1.2.1;Insuffisance;;;circle;;;;Certitude supposée;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/15/Alleged-Certainty;;Certitude supposée
+1.1.1.2.2;Insuffisance;;;circle;;;;Appel à la normalité;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/37/Appeal-to-Normality;;Appel à la normalité
+1.1.1.2.3;Insuffisance;;;circle;;;;Appel au péquin moyen;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/25/Appeal-to-Common-Folk;;Appel au péquin moyen
+1.1.1.2.4;Insuffisance;;;circle;;;;Renforcement communal;;;;;;;http://skepdic.com/communalreinforcement.html;;Renforcement communal
+1.1.1.2.5;Insuffisance;;;circle;;;;Appel au sens commun (ad judicium );;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#commonsense;;Appel au sens commun (ad judicium )
+1.1.1.3;Insuffisance;;;circle;;;;Sophisme du psychologue;;;;;;;https://en.wikipedia.org/wiki/Psychologist%27s_fallacy;;Sophisme du psychologue
+1.1.1.3.1;Insuffisance;6.3.1.4;;circle;;;;Projection mentale;;;;;;;https://en.wikipedia.org/wiki/Mind_projection_fallacy;;Projection mentale
+1.1.2;Insuffisance;;;circle;;;;Sauvetage ad-hoc;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/8/Ad-Hoc-Rescue;;Sauvetage ad-hoc
+1.1.2.1;Insuffisance;;;circle;;;;Le marteau en or / solution à tous les problèmes;;;;;;;http://rationalwiki.org/wiki/Golden_hammer;;Le marteau en or / solution à tous les problèmes
+1.1.2.1.1;Insuffisance;;;circle;;;;Fausseté fractale;;;;;;;http://rationalwiki.org/wiki/Fractal_wrongness;;Fausseté fractale
+1.1.2.1.2;Insuffisance;;;circle;;;;Confondre inexpliqué et inexpliquable;;;;;;;http://www.charlatans.info/logique22.shtml#inexplique;;Confondre inexpliqué et inexpliquable
+1.1.2.1.2.1;Insuffisance;;;circle;;;;Le sophisme Didit;;;;;;;http://rationalwiki.org/wiki/Didit_fallacy;;Le sophisme Didit
+1.1.2.1.2.1.1;Insuffisance;;;circle;;;;Dieu des trous;;;;;;;http://rationalwiki.org/wiki/God_of_the_gaps;;Dieu des trous
+1.1.2.2;Insuffisance;;;circle;;;;Argument par le scénario;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#scenario;;Argument par le scénario
+1.1.2.3;Insuffisance;;;circle;;;;Rationalisation (Trouver des excuses);;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/149/Rationalization;;Rationalisation (Trouver des excuses)
+1.1.2.3.1;Insuffisance;;;circle;;;;Hypothèse farfelue;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/96/Far-Fetched-Hypothesis;;Hypothèse farfelue
+1.1.2.3.1.1;Insuffisance;;;circle;;;;Familiarité étonante;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#familiarity;;Familiarité étonante
+1.1.2.4;Insuffisance;;;circle;;;;Effet rebond;;;;;;;https://fr.wiktionary.org/wiki/effet_rebond#fr;;Effet rebond
+1.1.2.5;Insuffisance;;;circle;;;;Tiré de mon cul (ex culo);;;;;;;http://rationalwiki.org/wiki/Argumentum_ex_culo;;Tiré de mon cul (ex culo)
+1.1.2.5.1;Insuffisance;;;circle;;;;Just-so story;;;;;;;https://fr.wikipedia.org/wiki/Just-so_story;;Just-so story
+1.1.3;Insuffisance;;;circle;;;;Argument vide;;;;;;;;;Argument vide
+1.1.3.1;Insuffisance;;;circle;;;;Appel à l'ignorance (ad ignorantiam);;;;;;;https://fr.wikipedia.org/wiki/Appel_%C3%A0_l%27ignorance;;Appel à l'ignorance (ad ignorantiam)
+1.1.3.1.1;Insuffisance;2.2.3.4;;circle;;;;Ignorance assumée;;;;;;;#7a35832c-dd16-4372-b534-241556541234;;Ignorance assumée
+1.1.3.1.1.1;Insuffisance;;;circle;;;;Ignorance invincible;;;;;;;http://www.ditext.com/fearnside/28.html;;Ignorance invincible
+1.1.3.1.1.2;Insuffisance;;;circle;;;;Tabou;;;;;;;https://fr.wikipedia.org/wiki/Tabou;;Tabou
+1.1.3.1.2;Insuffisance;;;circle;;;;Appel au mystère;;;;;;;http://rationalwiki.org/wiki/Appeal_to_mystery;;Appel au mystère
+1.1.3.1.2.1;Insuffisance;;;circle;;;;La science ne sait pas tout;;;;;;;http://rationalwiki.org/wiki/Science_doesn%27t_know_everything;;La science ne sait pas tout
+1.1.3.1.3;Insuffisance;;;circle;;;;Appel à l'incrédulité;;;;;;;http://rationalwiki.org/wiki/Argument_from_incredulity;;Appel à l'incrédulité
+1.1.3.1.3.1;Insuffisance;;;circle;;;;Sophisme divin;;;;;;;http://skepdic.com/dvinefal.html;;Sophisme divin
+1.1.3.1.3.2;Insuffisance;;;circle;;;;Argument par la stupéfaction;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#astonishment;;Argument par la stupéfaction
+1.1.3.1.4;Insuffisance;;;circle;;;;Preuve par l'absence;;;;;;;https://cortecs.org/materiel/sophisme-le-repulsif-anti-girafe/;;Preuve par l'absence
+1.1.3.1.5;Insuffisance;;;circle;;;;Appel à la complexité;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#complexity;;Appel à la complexité
+1.1.3.1.6;Insuffisance;;;circle;;;;Appel à l'omniscience;;;;;;;http://rationalwiki.org/wiki/Appeal_to_omniscience;;Appel à l'omniscience
+1.1.3.1.6.1;Insuffisance;;;circle;;;;Sophisme de Sherlock Holmes;;;;;;;http://rationalwiki.org/wiki/Holmesian_fallacy;;Sophisme de Sherlock Holmes
+1.1.3.2;Insuffisance;;;circle;;;;Appel au desespoir;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/28/Appeal-to-Desperation;;Appel au desespoir
+1.1.3.2.1;Insuffisance;4.3.3.5.1;;circle;;;;Syllogisme du politicien;;;;;;;1f82a972-e177-4e69-8a71-dbce97ef6749;;Syllogisme du politicien
+1.1.3.3;Insuffisance;;;circle;;;;Pensée magique;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/123/Magical-Thinking;;Pensée magique
+1.1.3.3.1;Insuffisance;;;circle;;;;Appel au ciel;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/35/Appeal-to-Heaven;;Appel au ciel
+1.1.3.3.2;Insuffisance;;;circle;;;;Superstition;;;;;;;http://skepdic.com/superstition.html;;Superstition
+1.1.3.4;Insuffisance;;;circle;;;;Pensée Cliché;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#cliche;;Pensée Cliché
+1.1.3.4.1;Insuffisance;;;circle;;;;L'exception confirme la règle;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#proves_the_rule;;L'exception confirme la règle
+1.1.3.4.2;Insuffisance;;;circle;;;;En théorie et en pratique;;;;;;;https://fr.wikisource.org/wiki/L%E2%80%99Art_d%E2%80%99avoir_toujours_raison/Stratag%C3%A8me_XXXIII;;En théorie et en pratique
+1.1.3.4.3;Insuffisance;;;circle;;;;Snowclone;;;;;;;https://fr.wikipedia.org/wiki/Snowclone;;Snowclone
+1.1.3.4.4;Insuffisance;;;circle;;;;Lapalissade;;;;;;;https://fr.wikipedia.org/wiki/Lapalissade;;Lapalissade
+1.1.3.4.5;Insuffisance;;;circle;;;;Bromure;;;;;;;https://en.wikipedia.org/wiki/Bromide_(language);;Bromure
+1.2;Insuffisance;;;circle;;;;Préjugé;;;;;;;;;Préjugé
+1.2.1;Insuffisance;;;circle;;;;Argument d'autorité;;;;;;;https://fr.wikipedia.org/wiki/Argument_d%27autorit%C3%A9;;Argument d'autorité
+1.2.1.1;Insuffisance;;;circle;;;;Par le pouvoir (Argumentum ad potentiam);;;;;;;https://fr.wikipedia.org/wiki/Argument_d%27autorit%C3%A9;;Par le pouvoir (Argumentum ad potentiam)
+1.2.1.1.1;Insuffisance;;;circle;;;;Argument d'autorité aveugle;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/62/Blind-Authority-Fallacy;;Argument d'autorité aveugle
+1.2.1.1.1.1;Insuffisance;;;circle;;;;Juste parce que;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/115/Just-Because-Fallacy;;Juste parce que
+1.2.1.1.2;Insuffisance;;;circle;;;;Appel à la confiance;;;;;;;http://rationalwiki.org/wiki/Appeal_to_confidence;;Appel à la confiance
+1.2.1.1.3;Insuffisance;;;circle;;;;Autorité invicible;;;;;;;http://rationalwiki.org/wiki/Invincible_authority;;Autorité invicible
+1.2.1.2;Insuffisance;;;circle;;;;Par le respect (ad verecundiam);;;;;;;https://fr.wikipedia.org/wiki/Argument_d%27autorit%C3%A9;;Par le respect (ad verecundiam)
+1.2.1.2.1;Insuffisance;;;circle;;;;Appel à l'accomplissement;;;;;;;https://en.wikipedia.org/wiki/Appeal_to_accomplishment;;Appel à l'accomplissement
+1.2.1.2.1.1;Insuffisance;;;circle;;;;Appel à la lune;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/43/Appeal-to-the-Moon;;Appel à la lune
+1.2.1.2.1.2;Insuffisance;;;circle;;;;Appel à la conversion;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/166/Statement-of-Conversion;;Appel à la conversion
+1.2.1.2.1.3;Insuffisance;;;circle;;;;Appel à la célébrité;;;;;;;http://www.fallacyfiles.org/apcelebs.html;;Appel à la célébrité
+1.2.1.2.2;Insuffisance;;;circle;;;;Appel à l'humilité;;;;;;;http://www.charlatans.info/logique-suite.shtml#humilite;;Appel à l'humilité
+1.2.1.3;Insuffisance;;;circle;;;;Ultracrepidarianisme;;;;;;;http://rationalwiki.org/wiki/Ultracrepidarianism;;Ultracrepidarianisme
+1.2.1.3.1;Insuffisance;;;circle;;;;Professeur de rien;;;;;;;http://rationalwiki.org/wiki/Professor_of_nothing;;Professeur de rien
+1.2.1.3.2;Insuffisance;;;circle;;;;Autorité Anonyme;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/18/Anonymous-Authority;;Autorité Anonyme
+1.2.1.3.3;Insuffisance;;;circle;;;;Ipse Dixit;;;;;;;http://rationalwiki.org/wiki/Ipse_dixit;;Ipse Dixit
+1.2.1.3.3.1;Insuffisance;;;circle;;;;Autothéisme par procuration;;;;;;;http://rationalwiki.org/wiki/Vicarious_autotheism;;Autothéisme par procuration
+1.2.1.3.3.1.1;Insuffisance;;;circle;;;;Chrétienté de cafétaria;;;;;;;http://rationalwiki.org/wiki/Cafeteria_Christian;;Chrétienté de cafétaria
+1.2.2;Insuffisance;;;circle;;;;Sophisme naturaliste;;;;;;;https://fr.wikipedia.org/wiki/Paralogisme_naturaliste;;Sophisme naturaliste
+1.2.2.1;Insuffisance;;;circle;;;;Sophisme est-doit;;;;;;;http://www.bargain-storage.com/uploads/9/8/7/4/9874916/attacking.faulty.reasoning.a.practical.guide.to.fallacyfree.arguments.pdf#page=158;;Sophisme est-doit
+1.2.2.2;Insuffisance;;;circle;;;;Raison de la majorité (ad populum);;;;;;;https://fr.wikipedia.org/wiki/Argumentum_ad_populum;;Raison de la majorité (ad populum)
+1.2.2.2.1;Insuffisance;;;circle;;;;3 hommes font un tigre;;;;;;;https://en.wikipedia.org/wiki/Three_men_make_a_tiger;;3 hommes font un tigre
+1.2.2.2.2;Insuffisance;;;circle;;;;Agiter le drapeau;;;;;;;https://en.wikipedia.org/wiki/Flag-waving;;Agiter le drapeau
+1.2.2.2.3;Insuffisance;;;circle;;;;Boire le Kool Aid;;;;;;;https://en.wikipedia.org/wiki/Drinking_the_Kool-Aid;;Boire le Kool Aid
+1.2.2.2.4;Insuffisance;;;circle;;;;Ad numerum;;;;;;;https://infidels.org/library/modern/mathew/logic.html#numerum;;Ad numerum
+1.2.2.3;Insuffisance;;;circle;;;;Appel à la tradition;;;;;;;https://fr.wikipedia.org/wiki/Argumentum_ad_antiquitatem;;Appel à la tradition
+1.2.2.3.1;Insuffisance;;;circle;;;;Argument de l'age (ad antiquitatem);;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/50/Argument-from-Age;;Argument de l'age (ad antiquitatem)
+1.2.2.3.2;Insuffisance;;;circle;;;;Pas inventé ici;;;;;;;https://en.wikipedia.org/wiki/Not_invented_here;;Pas inventé ici
+1.2.2.4;Insuffisance;;;circle;;;;Appel à la nature;;;;;;;https://en.wikipedia.org/wiki/Appeal_to_nature;;Appel à la nature
+1.2.2.4.1;Insuffisance;;;circle;;;;Ecoblanchiment (greenwashing);;;;;;;https://fr.wikipedia.org/wiki/%C3%89coblanchiment;;Ecoblanchiment (greenwashing)
+1.2.2.4.2;Insuffisance;;;circle;;;;Technophobie;;;;;;;https://fr.wikipedia.org/wiki/Technophobie;;Technophobie
+1.2.2.4.3;Insuffisance;;;circle;;;;Le bon sauvage;;;;;;;https://fr.wikipedia.org/wiki/Bon_sauvage;;Le bon sauvage
+1.2.3;Insuffisance;;;circle;;;;Sophisme moraliste;;;;;;;https://en.wikipedia.org/wiki/Moralistic_fallacy;;Sophisme moraliste
+1.2.3.1;Insuffisance;;;circle;;;;Appel à la foi;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/31/Appeal-to-Faith;;Appel à la foi
+1.2.3.1.1;Insuffisance;;;circle;;;;Argument par la futur;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#future;;Argument par la futur
+1.2.3.2;Insuffisance;;;circle;;;;Argument de la nouveauté (ad novitatem);;;;;;;https://fr.wikipedia.org/wiki/Argumentum_ad_novitatem;;Argument de la nouveauté (ad novitatem)
+1.2.3.2.1;Insuffisance;;;circle;;;;Snobisme chronologique;;;;;;;https://en.wikipedia.org/wiki/Chronological_snobbery;;Snobisme chronologique
+1.2.3.3;Insuffisance;;;circle;;;;moral high ground fallacy;;;;;;;https://en.wikipedia.org/wiki/Moral_high_ground#Everyday_use;;moral high ground fallacy
+1.2.3.3.1;Insuffisance;;;circle;;;;Snobbisme;;;;;;;https://fr.wikipedia.org/wiki/Snob;;Snobbisme
+1.2.3.3.1.1;Insuffisance;;;circle;;;;Elitisme;;;;;;;https://fr.wikipedia.org/wiki/%C3%89litisme;;Elitisme
+1.2.3.3.2;Insuffisance;;;circle;;;;Argument du politiquement correct;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/141/Political-Correctness-Fallacy;;Argument du politiquement correct
+1.2.3.3.2.1;Insuffisance;;;circle;;;;Blasphème;;;;;;;http://skepdic.com/blasphemy.html;;Blasphème
+1.2.3.3.2.2;Insuffisance;;;circle;;;;Manquement à l'étiquette;;;;;;;https://fr.wikipedia.org/wiki/%C3%89tiquette_(code);;Manquement à l'étiquette
+1.2.3.4;Insuffisance;;;circle;;;;Le style avant la substance;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/170/Style-Over-Substance;;Le style avant la substance
+1.2.3.4.1;Insuffisance;;;circle;;;;Argument du design;;;;;;;;;Argument du design
+1.2.3.4.1.1;Insuffisance;;;circle;;;;Argument de la beauté;;;;;;;http://rationalwiki.org/wiki/Argument_from_beauty;;Argument de la beauté
+1.2.3.4.2;Insuffisance;;;circle;;;;Preuve par le droit;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/157/Rights-To-Ought-Fallacy;;Preuve par le droit
+1.2.3.5;Insuffisance;;;circle;;;;Sophismes d'argent;;;;;;;;;Sophismes d'argent
+1.2.3.5.1;Insuffisance;;;circle;;;;Raison du plus riche (ad crumenam);;;;;;;https://fr.wikipedia.org/wiki/Argumentum_ad_crumenam;;Raison du plus riche (ad crumenam)
+1.2.3.5.2;Insuffisance;;;circle;;;;Raison du plus pauvre (ad lazarum);;;;;;;https://fr.wikipedia.org/wiki/Argumentum_ad_lazarum;;Raison du plus pauvre (ad lazarum)
+1.3;Insuffisance;;;circle;;;;Surinterprétation;;;;;;;;;Surinterprétation
+1.3.1;Insuffisance;;;circle;;;;Sophisme ludique;;;;;;;https://en.wikipedia.org/wiki/Ludic_fallacy;;Sophisme ludique
+1.3.1.1;Insuffisance;;;circle;;;;sophisme quantitatif;;;;;;;https://en.wikipedia.org/wiki/McNamara_fallacy;;sophisme quantitatif
+1.3.1.2;Insuffisance;;;circle;;;;Biais rétrospectif;;;;;;;https://fr.wikipedia.org/wiki/Biais_r%C3%A9trospectif;;Biais rétrospectif
+1.3.1.2.1;Insuffisance;;;circle;;;;Sophisme de l'historien;;;;;;;https://en.wikipedia.org/wiki/Historian%27s_fallacy;;Sophisme de l'historien
+1.3.1.2.2;Insuffisance;;;circle;;;;Déterminisme rétrospectif;;;;;;;https://en.wikipedia.org/wiki/Retrospective_determinism;;Déterminisme rétrospectif
+1.3.1.2.3;Insuffisance;;;circle;;;;Clarivoyance rétroactive;;;;;;;http://skepdic.com/retroactiveclairvoyance.html;;Clarivoyance rétroactive
+1.3.1.3;Insuffisance;;;circle;;;;La pompe à intuition;;;;;;;http://rationalwiki.org/wiki/Intuition_pump;;La pompe à intuition
+1.3.1.4;Insuffisance;;;circle;;;;Sophisme etymologique;;;;;;;https://en.wikipedia.org/wiki/Etymological_fallacy;;Sophisme etymologique
+1.3.1.5;Insuffisance;;;circle;;;;Simplification abusive;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#reductive;;Simplification abusive
+1.3.1.6;Insuffisance;;;circle;;;;Sophisme de l'expérience cruciale;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#crucial_experiment;;Sophisme de l'expérience cruciale
+1.3.1.7;Insuffisance;5.3.3.1;;circle;;;;Fausse implication;;;;;;;http://skepdic.com/falseimplication.html;;Fausse implication
+1.3.2;Insuffisance;;;circle;;;;Mauvaises raisons;;;;;;;http://www.fallacyfiles.org/badreasn.html;;Mauvaises raisons
+1.3.2.1;Insuffisance;;;circle;;;;Argument du sophisme;;;;;;;http://www.fallacyfiles.org/fallfall.html;;Argument du sophisme
+1.3.2.1.1;Insuffisance;;;circle;;;;Substituer des explications pour des prémisses;;;;;;;http://rationalwiki.org/wiki/Substituting_explanation_for_premise;;Substituer des explications pour des prémisses
+1.3.2.2;Insuffisance;;;circle;;;;A qui profite le crime? (Cui Bono);;;;;;;https://fr.wikipedia.org/wiki/Cui_bono;;A qui profite le crime? (Cui Bono)
+1.3.2.2.1;Insuffisance;;;circle;;;;Suivez l'argent;;;;;;;https://en.wikipedia.org/wiki/Follow_the_money;;Suivez l'argent
+1.3.2.3;Insuffisance;;;circle;;;;Appel au motif;;;;;;;https://en.wikipedia.org/wiki/Appeal_to_motive;;Appel au motif
+1.3.2.3.1;Insuffisance;;;circle;;;;Appel à l'intention éditoriale;;;;;;;https://en.wikipedia.org/wiki/Authorial_intent#New_Criticism;;Appel à l'intention éditoriale
+1.3.2.3.2;Insuffisance;;;circle;;;;Procès d'intention;;;;;;;https://fr.wikipedia.org/wiki/Proc%C3%A8s_d%27intention;;Procès d'intention
+1.3.2.3.3;Insuffisance;;;circle;;;;Sophisme psychogénétique;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#psycho;;Sophisme psychogénétique
+1.3.2.3.3.1;Insuffisance;;;circle;;;;Ad iram;;;;;;;http://rationalwiki.org/wiki/Ad_iram;;Ad iram
+1.3.2.3.3.1.1;Insuffisance;2.2.2.2;;circle;;;;La colère est une faiblesse;;;;;;;https://fr.wikisource.org/wiki/L%E2%80%99Art_d%E2%80%99avoir_toujours_raison/Stratag%C3%A8me_XXVII;;La colère est une faiblesse
+1.3.2.3.3.2;Insuffisance;;;circle;;;;Ad feminam;;;;;;;http://www.thefreedictionary.com/Argumentum+ad+feminam;;Ad feminam
+1.3.3;Insuffisance;;;circle;;;;Manque de parcimonie (rasoir d'Ockham);;;;;;;https://fr.wikipedia.org/wiki/Rasoir_d%27Ockham;;Manque de parcimonie (rasoir d'Ockham)
+1.3.3.1;Insuffisance;;;circle;;;;Rasoir d'Hanlon;;;;;;;http://rationalwiki.org/wiki/Hanlon%27s_razor;;Rasoir d'Hanlon
+1.3.3.2;Insuffisance;;;circle;;;;Principe de charité;;;;;;;https://fr.wikipedia.org/wiki/Principe_de_charit%C3%A9;;Principe de charité
+1.3.3.2.1;Insuffisance;7.3.1.2;;circle;;;;Homme de paille;;;;;;;https://fr.wikipedia.org/wiki/%C3%89pouvantail_(rh%C3%A9torique);;Homme de paille
+1.3.3.3;Insuffisance;;;circle;;;;Canon de Morgan;;;;;;;https://fr.wikipedia.org/wiki/Pathetic_fallacy;;Canon de Morgan
+1.3.3.3.1;Insuffisance;;;circle;;;;Sophisme animiste;;;;;;;#9e1c3834-3d6d-4164-8c95-3f9b19aa6f9f;;Sophisme animiste
+1.3.3.3.1.1;Insuffisance;;;circle;;;;Sophisme pathétique;;;;;;;https://fr.wikipedia.org/wiki/Pathetic_fallacy;;Sophisme pathétique
+1.3.3.4;Insuffisance;;;circle;;;;Apophénie;;;;;;;http://skepdic.com/apophenia.html;;Apophénie
+1.3.3.5;Insuffisance;;;circle;;;;Paréidolie;;;;;;;https://fr.wikipedia.org/wiki/Par%C3%A9idolie;;Paréidolie
+2;Influence;;;square;;;;Influence;;;;;;;;;Influence
+2.1;Influence;;;circle;;;;Procédé Rhétorique;;;;;;;https://en.wikipedia.org/wiki/Rhetorical_device;;Procédé Rhétorique
+2.1.1;Influence;;;circle;;;;Langage chargé;;;;;;;https://en.wikipedia.org/wiki/Loaded_language;;Langage chargé
+2.1.1.1;Influence;;;circle;;;;Argument par la question;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#question;;Argument par la question
+2.1.1.1.1;Influence;;;circle;;;;Compliquer les questions (plurium interrogationum);;;;;;;https://fr.wikipedia.org/wiki/Plurium_interrogationum;;Compliquer les questions (plurium interrogationum)
+2.1.1.1.1.1;Influence;;;circle;;;;Question rhétorique;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#rhetorical_question;;Question rhétorique
+2.1.1.1.2;Influence;;;circle;;;;Question à deux volets (question complexe);;;;;;;https://en.wikipedia.org/wiki/Double-barreled_question;;Question à deux volets (question complexe)
+2.1.1.1.3;Influence;;;circle;;;;Fausse alternative;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/16/Alternative-Advance;;Fausse alternative
+2.1.1.2;Influence;4.1.1;;circle;;;;Pétition de principe;;;;;;;https://fr.wikipedia.org/wiki/P%C3%A9tition_de_principe;;Pétition de principe
+2.1.1.3;Influence;5.1.2.3;;circle;;;;Définition persuasive;;;;;;;https://en.wikipedia.org/wiki/Persuasive_definition;;Définition persuasive
+2.1.1.3.1;Influence;;;circle;;;;Mots fouines;;;;;;;https://en.wikipedia.org/wiki/Weasel_word;;Mots fouines
+2.1.1.3.2;Influence;1.3.1.4;;circle;;;;Langage idiosynchratique;;;;;;;http://www.ditext.com/fearnside/51.html;;Langage idiosynchratique
+2.1.1.3.2.1;Influence;;;circle;;;;Elément de langage;;;;;;;https://fr.wikipedia.org/wiki/%C3%89l%C3%A9ment_de_langage;;Elément de langage
+2.1.1.3.2.2;Influence;;;circle;;;;Double langage;;;;;;;https://en.wikipedia.org/wiki/Doublespeak;;Double langage
+2.1.1.3.2.3;Influence;;;circle;;;;Jargon corporate;;;;;;;https://en.wikipedia.org/wiki/Corporate_jargon;;Jargon corporate
+2.1.1.3.2.4;Influence;;;circle;;;;Blabla technologique;;;;;;;http://rationalwiki.org/wiki/Technobabble;;Blabla technologique
+2.1.1.3.2.5;Influence;;;circle;;;;Buzzword;;;;;;;https://fr.wikipedia.org/wiki/Buzzword;;Buzzword
+2.1.1.4;Influence;;;circle;;;;Poncif bloquant la pensée;;;;;;;https://fr.wikipedia.org/wiki/Thought-terminating_clich%C3%A9;;Poncif bloquant la pensée
+2.1.1.4.1;Influence;;;circle;;;;L'argument par slogant;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#slogan;;L'argument par slogant
+2.1.1.4.2;Influence;;;circle;;;;Petite phrase;;;;;;;https://fr.wikipedia.org/wiki/Petite_phrase;;Petite phrase
+2.1.1.4.3;Influence;1.1.3.4;;circle;;;;Pensée Cliché;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#cliche;;Pensée Cliché
+2.1.1.4.4;Influence;;;circle;;;;Technique du carpaccio;;;;;;;https://cortecs.org/materiel/scenarisation-de-linformation-la-technique-du-carpaccio/;;Technique du carpaccio
+2.1.1.5;Influence;;;circle;;;;Preuve par intimidation;;;;;;;https://en.wikipedia.org/wiki/Proof_by_intimidation;;Preuve par intimidation
+2.1.1.5.1;Influence;;;circle;;;;Argument par le jargon prestigieux;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#jargon;;Argument par le jargon prestigieux
+2.1.1.5.2;Influence;;;circle;;;;Impressioner par les grands nombres;;;;;;;http://www.ditext.com/fearnside/17.html;;Impressioner par les grands nombres
+2.1.1.5.3;Influence;;;circle;;;;Argument par le charabia;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#gibberish;;Argument par le charabia
+2.1.1.5.4;Influence;;;circle;;;;Effet impact;;;;;;;https://cortecs.org/materiel/leffet-impact/;;Effet impact
+2.1.1.5.5;Influence;;;circle;;;;Effet puits;;;;;;;https://cortecs.org/materiel/leffet-puits/;;Effet puits
+2.1.1.6;Influence;;;circle;;;;Langage préjudiciable;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/143/Prejudicial-Language;;Langage préjudiciable
+2.1.1.6.1;Influence;;;circle;;;;Politique du sifflet de chien;;;;;;;https://en.wikipedia.org/wiki/Dog-whistle_politics;;Politique du sifflet de chien
+2.1.1.6.2;Influence;;;circle;;;;Grossièreté;;;;;;;https://en.wikipedia.org/wiki/Rudeness;;Grossièreté
+2.1.1.6.2.1;Influence;;;circle;;;;Effet Nasty;;;;;;;http://skepdic.com/nastyeffect.html;;Effet Nasty
+2.1.1.6.3;Influence;;;circle;;;;Langage catégorique;;;;;;;https://en.wikipedia.org/wiki/Judgmental_language;;Langage catégorique
+2.1.2;Influence;;;circle;;;;Humour;;;;;;;;;Humour
+2.1.2.1;Influence;;;circle;;;;Comique;;;;;;;https://fr.wikipedia.org/wiki/Comique;;Comique
+2.1.2.1.1;Influence;;;circle;;;;Blague;;;;;;;https://en.wikipedia.org/wiki/Joke;;Blague
+2.1.2.1.2;Influence;;;circle;;;;Absurde;;;;;;;https://fr.wikipedia.org/wiki/Humour_absurde;;Absurde
+2.1.2.1.2.1;Influence;;;circle;;;;Amphigouri;;;;;;;https://fr.wikipedia.org/wiki/Amphigouri;;Amphigouri
+2.1.2.1.2.2;Influence;;;circle;;;;Burlesque;;;;;;;https://fr.wikipedia.org/wiki/Burlesque;;Burlesque
+2.1.2.1.2.3;Influence;;;circle;;;;Paradoxe du menteur;;;;;;;https://fr.wikipedia.org/wiki/Paradoxe_du_menteur;;Paradoxe du menteur
+2.1.2.1.3;Influence;;;circle;;;;Jeu de mots;;;;;;;https://fr.wikipedia.org/wiki/Jeu_de_mots;;Jeu de mots
+2.1.2.1.3.1;Influence;;;circle;;;;Calembour;;;;;;;https://fr.wikipedia.org/wiki/Calembour;;Calembour
+2.1.2.1.3.2;Influence;;;circle;;;;Double sens;;;;;;;https://fr.wikipedia.org/wiki/Double_sens_(figure_de_style);;Double sens
+2.1.2.1.3.2.1;Influence;;;circle;;;;Contrepèterie;;;;;;;https://fr.wikipedia.org/wiki/Contrep%C3%A8terie;;Contrepèterie
+2.1.2.2;Influence;;;circle;;;;Satire;;;;;;;https://fr.wikipedia.org/wiki/Satire;;Satire
+2.1.2.2.1;Influence;;;circle;;;;Mot d'esprit;;;;;;;https://fr.wikipedia.org/wiki/Mot_d%27esprit;;Mot d'esprit
+2.1.2.2.2;Influence;;;circle;;;;Exagération;;;;;;;;;Exagération
+2.1.2.2.2.1;Influence;;;circle;;;;Caricature;;;;;;;https://fr.wikipedia.org/wiki/Caricature;;Caricature
+2.1.2.2.2.2;Influence;;;circle;;;;Parodie;;;;;;;https://fr.wikipedia.org/wiki/Parodie;;Parodie
+2.1.2.2.2.2.1;Influence;;;circle;;;;Wellerisme;;;;;;;https://fr.wikipedia.org/wiki/Wellerisme;;Wellerisme
+2.1.2.2.2.2.2;Influence;;;circle;;;;Antiparémie;;;;;;;https://fr.wikipedia.org/wiki/Antipar%C3%A9mie;;Antiparémie
+2.1.2.2.3;Influence;;;circle;;;;Ironie;;;;;;;https://fr.wikipedia.org/wiki/Ironie;;Ironie
+2.1.2.2.3.1;Influence;;;circle;;;;Ironie Situationnelle;;;;;;;https://fr.wikipedia.org/wiki/Ironie#L.27ironie_situationnelle;;Ironie Situationnelle
+2.1.2.2.3.2;Influence;;;circle;;;;Ironie Socratique;;;;;;;https://fr.wikipedia.org/wiki/Ironie_socratique;;Ironie Socratique
+2.1.2.2.3.2.1;Influence;;;circle;;;;Sarcasme;;;;;;;https://fr.wikipedia.org/wiki/Sarcasme;;Sarcasme
+2.1.2.3;Influence;;;circle;;;;Cynisme;;;;;;;https://fr.wikipedia.org/wiki/Cynisme_(contemporain);;Cynisme
+2.1.2.3.1;Influence;;;circle;;;;Humour noir;;;;;;;https://fr.wikipedia.org/wiki/Humour_noir;;Humour noir
+2.1.2.3.2;Influence;;;circle;;;;Nihilisme;;;;;;;https://fr.wikipedia.org/wiki/Nihilisme;;Nihilisme
+2.1.3;Influence;;;circle;;;;Argument par la poésie;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#poetry;;Argument par la poésie
+2.1.3.1;Influence;;;circle;;;;Procédé sonor;;;;;;;https://en.wikipedia.org/wiki/Rhetorical_device#Sonic_devices;;Procédé sonor
+2.1.3.1.1;Influence;;;circle;;;;Allitération;;;;;;;https://fr.wikipedia.org/wiki/Allit%C3%A9ration;;Allitération
+2.1.3.1.2;Influence;;;circle;;;;Assonance;;;;;;;https://fr.wikipedia.org/wiki/Assonance;;Assonance
+2.1.3.1.3;Influence;;;circle;;;;Cacophonie;;;;;;;https://fr.wikipedia.org/wiki/Cacophonie;;Cacophonie
+2.1.3.1.4;Influence;;;circle;;;;Onomatopée;;;;;;;https://fr.wikipedia.org/wiki/Onomatop%C3%A9e;;Onomatopée
+2.1.3.1.5;Influence;;;circle;;;;Métaplasme;;;;;;;https://fr.wikipedia.org/wiki/M%C3%A9taplasme;;Métaplasme
+2.1.3.1.5.1;Influence;;;circle;;;;Assimilation;;;;;;;https://fr.wikipedia.org/wiki/Assimilation_(phon%C3%A9tique);;Assimilation
+2.1.3.2;Influence;;;circle;;;;Répétition;;;;;;;;;Répétition
+2.1.3.2.1;Influence;;;circle;;;;Accumulation;;;;;;;https://fr.wikipedia.org/wiki/Accumulation_(rh%C3%A9torique);;Accumulation
+2.1.3.2.1.1;Influence;;;circle;;;;Enumération;;;;;;;https://fr.wikipedia.org/wiki/%C3%89num%C3%A9ration;;Enumération
+2.1.3.2.1.2;Influence;;;circle;;;;Conglobation;;;;;;;https://fr.wikipedia.org/wiki/Conglobation;;Conglobation
+2.1.3.2.2;Influence;;;circle;;;;Anaphore;;;;;;;https://fr.wikipedia.org/wiki/Anaphore_(rh%C3%A9torique);;Anaphore
+2.1.3.2.2.1;Influence;;;circle;;;;Epiphore;;;;;;;https://fr.wikipedia.org/wiki/%C3%89piphore;;Epiphore
+2.1.3.2.2.2;Influence;;;circle;;;;Symploque;;;;;;;https://fr.wikipedia.org/wiki/Symploque;;Symploque
+2.1.3.2.3;Influence;;;circle;;;;Paronomase;;;;;;;https://fr.wikipedia.org/wiki/Paronomase;;Paronomase
+2.1.3.2.3.1;Influence;;;circle;;;;Annomination;;;;;;;https://fr.wikipedia.org/wiki/Annomination;;Annomination
+2.1.3.2.4;Influence;;;circle;;;;Hyperbole;;;;;;;https://fr.wikipedia.org/wiki/Hyperbole_(rh%C3%A9torique);;Hyperbole
+2.1.3.2.4.1;Influence;;;circle;;;;Adynaton;;;;;;;https://fr.wikipedia.org/wiki/Adynaton;;Adynaton
+2.1.3.2.5;Influence;;;circle;;;;Hendiadys;;;;;;;https://fr.wikipedia.org/wiki/Hendiadys;;Hendiadys
+2.1.3.3;Influence;;;circle;;;;Adjonction;;;;;;;;;Adjonction
+2.1.3.3.1;Influence;;;circle;;;;Gradation;;;;;;;https://fr.wikipedia.org/wiki/Gradation;;Gradation
+2.1.3.3.2;Influence;;;circle;;;;Paraphrase;;;;;;;https://fr.wikipedia.org/wiki/Paraphrase;;Paraphrase
+2.1.3.3.3;Influence;;;circle;;;;Oxymore;;;;;;;https://fr.wikipedia.org/wiki/Oxymore;;Oxymore
+2.1.3.3.4;Influence;;;circle;;;;Tautologie;;;;;;;https://fr.wikipedia.org/wiki/Tautologie;;Tautologie
+2.1.3.4;Influence;;;circle;;;;Suppression;;;;;;;;;Suppression
+2.1.3.4.1;Influence;;;circle;;;;Aposiopèse;;;;;;;https://fr.wikipedia.org/wiki/Aposiop%C3%A8se;;Aposiopèse
+2.1.3.4.2;Influence;;;circle;;;;Antiphrase;;;;;;;https://fr.wikipedia.org/wiki/Antiphrase;;Antiphrase
+2.1.3.4.3;Influence;;;circle;;;;Euphémisme;;;;;;;https://fr.wikipedia.org/wiki/Euph%C3%A9misme;;Euphémisme
+2.1.3.4.4;Influence;;;circle;;;;Prétérition;;;;;;;https://fr.wikipedia.org/wiki/Pr%C3%A9t%C3%A9rition;;Prétérition
+2.1.3.4.5;Influence;;;circle;;;;Syllepse;;;;;;;https://fr.wikipedia.org/wiki/Syllepse;;Syllepse
+2.1.3.4.6;Influence;;;circle;;;;Zeugma;;;;;;;https://fr.wikipedia.org/wiki/Zeugma_(stylistique);;Zeugma
+2.1.3.4.7;Influence;;;circle;;;;Allusion;;;;;;;https://fr.wikipedia.org/wiki/Allusion;;Allusion
+2.1.3.4.8;Influence;;;circle;;;;Antilogie;;;;;;;https://fr.wikipedia.org/wiki/Antilogie_(rh%C3%A9torique);;Antilogie
+2.1.3.5;Influence;;;circle;;;;Déplacement;;;;;;;;;Déplacement
+2.1.3.5.1;Influence;;;circle;;;;Chiasme;;;;;;;https://fr.wikipedia.org/wiki/Chiasme;;Chiasme
+2.1.3.5.2;Influence;;;circle;;;;Antiparastase;;;;;;;https://fr.wikipedia.org/wiki/Antiparastase;;Antiparastase
+2.1.3.5.3;Influence;;;circle;;;;Epanorthose;;;;;;;https://fr.wikipedia.org/wiki/%C3%89panorthose;;Epanorthose
+2.1.3.5.4;Influence;;;circle;;;;Métalepse;;;;;;;https://fr.wikipedia.org/wiki/M%C3%A9talepse;;Métalepse
+2.1.3.5.5;Influence;;;circle;;;;Prolepse;;;;;;;https://fr.wikipedia.org/wiki/Prolepse;;Prolepse
+2.1.3.5.6;Influence;;;circle;;;;Périphrase;;;;;;;https://fr.wikipedia.org/wiki/P%C3%A9riphrase;;Périphrase
+2.1.3.5.6.1;Influence;;;circle;;;;Circonlocution;;;;;;;https://fr.wikipedia.org/wiki/Circonlocution;;Circonlocution
+2.1.3.6;Influence;;;circle;;;;Substitution;;;;;;;;;Substitution
+2.1.3.6.1;Influence;;;circle;;;;Métaphore;;;;;;;https://fr.wikipedia.org/wiki/M%C3%A9taphore;;Métaphore
+2.1.3.6.2;Influence;;;circle;;;;Astéisme;;;;;;;https://fr.wikipedia.org/wiki/Ast%C3%A9isme;;Astéisme
+2.1.3.6.3;Influence;;;circle;;;;Allégorie;;;;;;;https://fr.wikipedia.org/wiki/All%C3%A9gorie;;Allégorie
+2.1.3.6.4;Influence;;;circle;;;;Litote;;;;;;;https://fr.wikipedia.org/wiki/Litote;;Litote
+2.1.3.6.5;Influence;;;circle;;;;Métonymie;;;;;;;https://fr.wikipedia.org/wiki/M%C3%A9tonymie;;Métonymie
+2.1.3.6.5.1;Influence;;;circle;;;;Synecdote;;;;;;;https://fr.wikipedia.org/wiki/Synecdoque;;Synecdote
+2.1.3.6.6;Influence;;;circle;;;;Question rhétorique;;;;;;;https://fr.wikipedia.org/wiki/Question_rh%C3%A9torique;;Question rhétorique
+2.1.3.6.7;Influence;;;circle;;;;Digression;;;;;;;https://fr.wikipedia.org/wiki/Digression;;Digression
+2.1.3.6.7.1;Influence;;;circle;;;;Parembole;;;;;;;https://fr.wikipedia.org/wiki/Parembole;;Parembole
+2.2;Influence;;;circle;;;;Appel à l'émotion;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/45/Argument-by-Emotive-Language;;Appel à l'émotion
+2.2.1;Influence;;;circle;;;;Encourager;;;;;;;;;Encourager
+2.2.1.1;Influence;;;circle;;;;Appel à la confiance;;;;;;;http://rationalwiki.org/wiki/Appeal_to_confidence;;Appel à la confiance
+2.2.1.1.1;Influence;;;circle;;;;Effet de halo;;;;;;;https://fr.wikipedia.org/wiki/Effet_de_halo;;Effet de halo
+2.2.1.2;Influence;;;circle;;;;Appel au désir;;;;;;;http://www.cogsci.rpi.edu/~heuveb/teaching/CriticalThinking/Web/Presentations/EmotionalAppeals.pdf#page=6;;Appel au désir
+2.2.1.2.1;Influence;;;circle;;;;Voeu pieux;;;;;;;https://en.wikipedia.org/wiki/Wishful_thinking;;Voeu pieux
+2.2.1.2.1.1;Influence;;;circle;;;;Il faut le dire vite;;;;;;;https://fr.wiktionary.org/wiki/il_faut_le_dire_vite;;Il faut le dire vite
+2.2.1.2.2;Influence;;;circle;;;;Généralité chatoyante;;;;;;;https://en.wikipedia.org/wiki/Glittering_generality;;Généralité chatoyante
+2.2.1.2.2.1;Influence;;;circle;;;;Le Français qui se lève tôt;;;;;;;https://en.wikipedia.org/wiki/Hardworking_families;;Le Français qui se lève tôt
+2.2.1.2.2.2;Influence;;;circle;;;;Profonditude;;;;;;;http://rationalwiki.org/wiki/Deepity;;Profonditude
+2.2.1.2.3;Influence;;;circle;;;;Appel aux masses (ad captandum);;;;;;;https://en.wikipedia.org/wiki/Argumentum_ad_captandum;;Appel aux masses (ad captandum)
+2.2.1.2.3.1;Influence;;;circle;;;;Démagogie;;;;;;;https://fr.wikipedia.org/wiki/D%C3%A9magogie;;Démagogie
+2.2.1.2.3.2;Influence;;;circle;;;;Du pain et des jeux;;;;;;;https://fr.wikipedia.org/wiki/Panem_et_circenses;;Du pain et des jeux
+2.2.1.2.3.3;Influence;;;circle;;;;Chrétienté de fast-food;;;;;;;http://rationalwiki.org/wiki/Fast-food_Christianity;;Chrétienté de fast-food
+2.2.1.2.4;Influence;;;circle;;;;Servir la soupe;;;;;;;http://www.linternaute.com/expression/langue-francaise/19094/servir-la-soupe/;;Servir la soupe
+2.2.1.3;Influence;;;circle;;;;Appel à la flatterie;;;;;;;https://en.wikipedia.org/wiki/Appeal_to_flattery;;Appel à la flatterie
+2.2.1.3.1;Influence;;;circle;;;;Captatio benevolentiae;;;;;;;https://en.wikipedia.org/wiki/Captatio_benevolentiae;;Captatio benevolentiae
+2.2.1.3.2;Influence;;;circle;;;;moral high ground fallacy;;;;;;;https://en.wikipedia.org/wiki/Moral_high_ground#Everyday_use;;moral high ground fallacy
+2.2.1.3.2.1;Influence;;;circle;;;;Appel au snob;;;;;;;http://www.fallacydetective.com/news/read/snob-appeal;;Appel au snob
+2.2.1.3.2.1.1;Influence;;;circle;;;;Appel à l'exclusivité;;;;;;;http://www.cogsci.rpi.edu/~heuveb/teaching/CriticalThinking/Web/Presentations/EmotionalAppeals.pdf#page=17;;Appel à l'exclusivité
+2.2.1.3.3;Influence;;;circle;;;;Appel à la fièrté;;;;;;;http://rationalwiki.org/wiki/Appeal_to_shame#Appeal_to_pride;;Appel à la fièrté
+2.2.1.4;Influence;;;circle;;;;Appel à la pitié (argument Galilée);;;;;;;https://fr.wikipedia.org/wiki/Argumentum_ad_misericordiam;;Appel à la pitié (argument Galilée)
+2.2.1.4.1;Influence;;;circle;;;;Pensez aux enfants;;;;;;;https://en.wikipedia.org/wiki/Think_of_the_children;;Pensez aux enfants
+2.2.2;Influence;;;circle;;;;Dissuader;;;;;;;;;Dissuader
+2.2.2.1;Influence;;;circle;;;;Argumentum ad odium;;;;;;;https://fr.wikipedia.org/wiki/Argumentum_ad_odium;;Argumentum ad odium
+2.2.2.1.1;Influence;;;circle;;;;Appel au ridicule;;;;;;;https://fr.wikipedia.org/wiki/Appel_au_ridicule;;Appel au ridicule
+2.2.2.1.1.1;Influence;;;circle;;;;Pooh-pooh;;;;;;;https://en.wikipedia.org/wiki/Pooh-pooh;;Pooh-pooh
+2.2.2.1.2;Influence;;;circle;;;;Appel à la honte;;;;;;;http://rationalwiki.org/wiki/Appeal_to_shame;;Appel à la honte
+2.2.2.1.3;Influence;;;circle;;;;Appel au dégoût;;;;;;;http://rationalwiki.org/wiki/Argumentum_ad_fastidium;;Appel au dégoût
+2.2.2.2;Influence;;;circle;;;;Appel à la colère;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/20/Appeal-to-Anger;;Appel à la colère
+2.2.2.2.1;Influence;;;circle;;;;Fâcher l'adversaire;;;;;;;https://fr.wikisource.org/wiki/L%E2%80%99Art_d%E2%80%99avoir_toujours_raison/Stratag%C3%A8me_VIII;;Fâcher l'adversaire
+2.2.2.2.1.1;Influence;;;circle;;;;Titiller;;;;;;;http://www.seekfind.net/Tactic_of_Needling.html;;Titiller
+2.2.2.2.1.2;Influence;;;circle;;;;Argument contrariant;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#contrarian;;Argument contrariant
+2.2.2.2.1.3;Influence;;;circle;;;;Forcer à l'exagération;;;;;;;https://fr.wikisource.org/wiki/L%E2%80%99Art_d%E2%80%99avoir_toujours_raison/Stratag%C3%A8me_XXIII;;Forcer à l'exagération
+2.2.2.2.2;Influence;;;circle;;;;Appel à l'indignation;;;;;;;http://www.cogsci.rpi.edu/~heuveb/teaching/CriticalThinking/Web/Presentations/EmotionalAppeals.pdf#page=11;;Appel à l'indignation
+2.2.2.3;Influence;;;circle;;;;Appel à la terreur;;;;;;;https://fr.wikipedia.org/wiki/Appel_%C3%A0_la_terreur;;Appel à la terreur
+2.2.2.3.1;Influence;;;circle;;;;Fear Uncertainty and Doubt;;;;;;;https://fr.wikipedia.org/wiki/Fear,_uncertainty_and_doubt;;Fear Uncertainty and Doubt
+2.2.2.3.2;Influence;;;circle;;;;Panique morale;;;;;;;https://fr.wikipedia.org/wiki/Panique_morale;;Panique morale
+2.2.3;Influence;;;circle;;;;Argument par la conséquence;;;;;;;https://fr.wikipedia.org/wiki/Argumentum_ad_consequentiam;;Argument par la conséquence
+2.2.3.1;Influence;;;circle;;;;Appel à la force;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#force;;Appel à la force
+2.2.3.1.1;Influence;;;circle;;;;Argument par la véhémence;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#vehemence;;Argument par la véhémence
+2.2.3.1.2;Influence;;;circle;;;;Ad baculum;;;;;;;https://en.wikipedia.org/wiki/Argumentum_ad_baculum;;Ad baculum
+2.2.3.2;Influence;;;circle;;;;Argument du ton;;;;;;;http://rationalwiki.org/wiki/Tone_argument;;Argument du ton
+2.2.3.2.1;Influence;;;circle;;;;Appel à la retenue;;;;;;;69ae735c-f11f-4e68-83cb-f041dddb50a2;;Appel à la retenue
+2.2.3.2.1.1;Influence;;;circle;;;;Appel à la gravité;;;;;;;http://rationalwiki.org/wiki/Appeal_to_gravity;;Appel à la gravité
+2.2.3.2.1.2;Influence;;;circle;;;;Mansplaining;;;;;;;https://en.wikipedia.org/wiki/Mansplaining;;Mansplaining
+2.2.3.3;Influence;;;circle;;;;Argument par l'intéret personnel;;;;;;;http://www.bargain-storage.com/uploads/9/8/7/4/9874916/attacking.faulty.reasoning.a.practical.guide.to.fallacyfree.arguments.pdf#page=123;;Argument par l'intéret personnel
+2.2.3.3.1;Influence;;;circle;;;;Appel à la réciprocation;;;;;;;http://www.cogsci.rpi.edu/~heuveb/teaching/CriticalThinking/Web/Presentations/EmotionalAppeals.pdf#page=15;;Appel à la réciprocation
+2.2.3.3.2;Influence;;;circle;;;;Appel à la revanche;;;;;;;http://www.cogsci.rpi.edu/~heuveb/teaching/CriticalThinking/Web/Presentations/EmotionalAppeals.pdf#page=16;;Appel à la revanche
+2.2.3.4;Influence;;;circle;;;;Ignorance assumée;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/182/Willed-Ignorance;;Ignorance assumée
+2.3;Influence;;;circle;;;;Manipulation mentale;;;;;;;https://fr.wikipedia.org/wiki/Manipulation_mentale;;Manipulation mentale
+2.3.1;Influence;;;circle;;;;Conditionnement;;;;;;;http://skepdic.com/conditioning.html;;Conditionnement
+2.3.1.1;Influence;;;circle;;;;Cadrage;;;;;;;https://fr.wikipedia.org/wiki/Cadrage_(d%C3%A9cision);;Cadrage
+2.3.1.1.1;Influence;;;circle;;;;Cacher son jeu;;;;;;;https://fr.wikisource.org/wiki/L%E2%80%99Art_d%E2%80%99avoir_toujours_raison/Stratag%C3%A8me_IV;;Cacher son jeu
+2.3.1.1.1.1;Influence;;;circle;;;;Prendre avantage de l'antithèse;;;;;;;https://fr.wikisource.org/wiki/L%E2%80%99Art_d%E2%80%99avoir_toujours_raison/Stratag%C3%A8me_X;;Prendre avantage de l'antithèse
+2.3.1.1.1.2;Influence;;;circle;;;;Amorcer et changer;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/105/Hypnotic-Bait-and-Switch;;Amorcer et changer
+2.3.1.1.1.3;Influence;;;circle;;;;Changer l'ordre des questions;;;;;;;https://fr.wikisource.org/wiki/L%E2%80%99Art_d%E2%80%99avoir_toujours_raison/Stratag%C3%A8me_IX;;Changer l'ordre des questions
+2.3.1.1.2;Influence;;;circle;;;;Validation subjective;;;;;;;http://skepdic.com/subjectivevalidation.html;;Validation subjective
+2.3.1.1.2.1;Influence;;;circle;;;;Effet Barnum;;;;;;;https://fr.wikipedia.org/wiki/Effet_Barnum;;Effet Barnum
+2.3.1.1.2.1.1;Influence;;;circle;;;;Lecture à chaud;;;;;;;http://skepdic.com/warmreading.html;;Lecture à chaud
+2.3.1.1.2.1.2;Influence;;;circle;;;;Piège de l'arbre des possibles;;;;;;;https://cortecs.org/materiel/leffet-barnum-forer-ou-validation-subjective/;;Piège de l'arbre des possibles
+2.3.1.1.2.2;Influence;;;circle;;;;Lecture à froid;;;;;;;https://fr.wikipedia.org/wiki/Lecture_%C3%A0_froid;;Lecture à froid
+2.3.1.1.2.2.1;Influence;;;circle;;;;La ruse arc-en-ciel;;;;;;;https://en.wikipedia.org/wiki/Cold_reading#The_rainbow_ruse;;La ruse arc-en-ciel
+2.3.1.1.2.2.2;Influence;;;circle;;;;Tir au petit plomb;;;;;;;https://fr.wikipedia.org/wiki/Lecture_%C3%A0_froid#Tir_au_petit_plomb;;Tir au petit plomb
+2.3.1.1.3;Influence;;;circle;;;;Distanciation;;;;;;;https://en.wikipedia.org/wiki/Distancing_language;;Distanciation
+2.3.1.1.4;Influence;6.3.1.2;;circle;;;;Biais de négativité;;;;;;;http://skepdic.com/negativitybias.html;;Biais de négativité
+2.3.1.1.5;Influence;;;circle;;;;Gaslighting;;;;;;;https://fr.wikipedia.org/wiki/Gaslighting;;Gaslighting
+2.3.1.1.6;Influence;;;circle;;;;Retourner un argument contre l'adversaire;;;;;;;https://fr.wikisource.org/wiki/L%E2%80%99Art_d%E2%80%99avoir_toujours_raison/Stratag%C3%A8me_XXVI;;Retourner un argument contre l'adversaire
+2.3.1.1.7;Influence;;;circle;;;;Programmation neuro linguistique;;;;;;;https://en.wikipedia.org/wiki/Methods_of_neuro-linguistic_programming;;Programmation neuro linguistique
+2.3.1.1.7.1;Influence;;;circle;;;;Ancrage;;;;;;;https://en.wikipedia.org/wiki/Anchoring;;Ancrage
+2.3.1.1.7.2;Influence;;;circle;;;;Synchronisation;;;;;;;https://fr.wikipedia.org/wiki/Programmation_neuro-linguistique#La_synchronisation;;Synchronisation
+2.3.1.1.7.3;Influence;;;circle;;;;Recadrage;;;;;;;https://fr.wikipedia.org/wiki/Programmation_neuro-linguistique#Le_recadrage;;Recadrage
+2.3.1.1.7.4;Influence;;;circle;;;;Dissociation;;;;;;;https://fr.wikipedia.org/wiki/Programmation_neuro-linguistique#La_dissociation;;Dissociation
+2.3.1.1.7.5;Influence;;;circle;;;;Règlage du futur;;;;;;;https://en.wikipedia.org/wiki/Methods_of_neuro-linguistic_programming#Future_pacing;;Règlage du futur
+2.3.1.1.7.6;Influence;;;circle;;;;Swish;;;;;;;https://en.wikipedia.org/wiki/Methods_of_neuro-linguistic_programming#Swish;;Swish
+2.3.1.2;Influence;;;circle;;;;Méthode Coué;;;;;;;https://fr.wikipedia.org/wiki/M%C3%A9thode_Cou%C3%A9;;Méthode Coué
+2.3.1.3;Influence;;;circle;;;;Effet Pygmalion;;;;;;;https://fr.wikipedia.org/wiki/Effet_Pygmalion;;Effet Pygmalion
+2.3.1.3.1;Influence;;;circle;;;;Effet Golem;;;;;;;https://fr.wikipedia.org/wiki/Effet_Golem;;Effet Golem
+2.3.1.4;Influence;;;circle;;;;Effet Matthieu;;;;;;;https://fr.wikipedia.org/wiki/Effet_Matthieu;;Effet Matthieu
+2.3.1.5;Influence;;;circle;;;;Effet Hans le malin;;;;;;;https://fr.wikipedia.org/wiki/Effet_Hans_le_Malin;;Effet Hans le malin
+2.3.1.5.1;Influence;;;circle;;;;Effet Linda la maline;;;;;;;http://skepdic.com/cleverlinda.html;;Effet Linda la maline
+2.3.1.6;Influence;;;circle;;;;Effet Placebo;;;;;;;http://skepdic.com/placebo.html;;Effet Placebo
+2.3.1.6.1;Influence;;;circle;;;;Effet Nocebo;;;;;;;http://skepdic.com/nocebo.html;;Effet Nocebo
+2.3.1.7;Influence;;;circle;;;;Tromperie perceptive;;;;;;;http://skepdic.com/refuge/ctlessons/lesson13.html;;Tromperie perceptive
+2.3.1.7.1;Influence;;;circle;;;;Sophisme de dissection;;;;;;;http://mathworld.wolfram.com/DissectionFallacy.html;;Sophisme de dissection
+2.3.1.7.1.1;Influence;;;circle;;;;Paradoxe du Tangram;;;;;;;http://mathworld.wolfram.com/TangramParadox.html;;Paradoxe du Tangram
+2.3.1.7.1.2;Influence;;;circle;;;;Paradoxe de dissection du triangle;;;;;;;http://mathworld.wolfram.com/TriangleDissectionParadox.html;;Paradoxe de dissection du triangle
+2.3.1.8;Influence;;;circle;;;;Hypnose;;;;;;;https://fr.wikipedia.org/wiki/Hypnose;;Hypnose
+2.3.2;Influence;;;circle;;;;Jeux de pouvoir;;;;;;;https://en.wikipedia.org/wiki/Power_and_control_in_abusive_relationships;;Jeux de pouvoir
+2.3.2.1;Influence;;;circle;;;;Argument par le charme personnel;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/48/Argument-by-Personal-Charm;;Argument par le charme personnel
+2.3.2.1.1;Influence;;;circle;;;;Love bombing;;;;;;;https://fr.wikipedia.org/wiki/Love_bombing;;Love bombing
+2.3.2.1.2;Influence;;;circle;;;;Flirt;;;;;;;https://fr.wikipedia.org/wiki/Flirt;;Flirt
+2.3.2.2;Influence;;;circle;;;;Obtenir l'obéissance;;;;;;;https://en.wikipedia.org/wiki/Compliance_gaining;;Obtenir l'obéissance
+2.3.2.2.1;Influence;;;circle;;;;Troubler;;;;;;;https://en.wikipedia.org/wiki/Compliance_gaining#Disrupt-then-reframe_.28DTR.29;;Troubler
+2.3.2.2.2;Influence;;;circle;;;;Persistence;;;;;;;https://en.wikipedia.org/wiki/Compliance_gaining#Persistence;;Persistence
+2.3.2.2.2.1;Influence;;;circle;;;;Tirer et chasser;;;;;;;https://en.wikipedia.org/wiki/Compliance_gaining#Dump_and_chase_.28DAC.29;;Tirer et chasser
+2.3.2.2.2.2;Influence;;;circle;;;;Tanner;;;;;;;https://en.wikipedia.org/wiki/Nagging;;Tanner
+2.3.2.2.2.3;Influence;;;circle;;;;Harceler;;;;;;;https://fr.wikipedia.org/wiki/Harc%C3%A8lement;;Harceler
+2.3.2.2.3;Influence;;;circle;;;;Engagement;;;;;;;https://fr.wikipedia.org/wiki/Engagement_(psychologie_sociale);;Engagement
+2.3.2.2.3.1;Influence;;;circle;;;;Hypocrisie induite;;;;;;;https://fr.wikipedia.org/wiki/Engagement_(psychologie_sociale)#L.E2.80.99hypocrisie_induite;;Hypocrisie induite
+2.3.2.2.3.2;Influence;;;circle;;;;Pied dans la porte;;;;;;;https://fr.wikipedia.org/wiki/Pied-dans-la-porte;;Pied dans la porte
+2.3.2.2.3.2.1;Influence;;;circle;;;;Pied dans la porte implicite;;;;;;;https://fr.wikipedia.org/wiki/Engagement_(psychologie_sociale)#Approche_implicite;;Pied dans la porte implicite
+2.3.2.2.3.2.2;Influence;6.2.3.4;;circle;;;;Cout irrécupérable;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/173/Sunk-Cost-Fallacy;;Cout irrécupérable
+2.3.2.2.3.3;Influence;;;circle;;;;Porte-au-nez;;;;;;;https://fr.wikipedia.org/wiki/Porte-au-nez;;Porte-au-nez
+2.3.2.2.3.4;Influence;;;circle;;;;Pied dans la bouche;;;;;;;https://fr.wikipedia.org/wiki/Engagement_(psychologie_sociale)#Technique_du_pied-dans-la-bouche;;Pied dans la bouche
+2.3.2.2.3.5;Influence;;;circle;;;;Etiquetage;;;;;;;https://fr.wikipedia.org/wiki/Engagement_(psychologie_sociale)#Technique_de_l.27.C3.A9tiquetage;;Etiquetage
+2.3.2.2.3.6;Influence;;;circle;;;;Toucher;;;;;;;https://fr.wikipedia.org/wiki/Engagement_(psychologie_sociale)#Le_toucher;;Toucher
+2.3.2.2.3.7;Influence;;;circle;;;;Amorçage;;;;;;;https://fr.wikipedia.org/wiki/Engagement_(psychologie_sociale)#L.27amor.C3.A7age;;Amorçage
+2.3.2.2.3.7.1;Influence;;;circle;;;;Leurre;;;;;;;https://fr.wikipedia.org/wiki/Engagement_(psychologie_sociale)#Le_leurre;;Leurre
+2.3.2.2.3.8;Influence;;;circle;;;;Crainte puis soulagement;;;;;;;https://fr.wikipedia.org/wiki/Engagement_(psychologie_sociale)#Technique_de_la_crainte-puis-soulagement;;Crainte puis soulagement
+2.3.2.2.3.9;Influence;;;circle;;;;Mais vous êtes libre;;;;;;;https://fr.wikipedia.org/wiki/Engagement_(psychologie_sociale)#La_technique_du_mais-vous-.C3.AAtes-libre-de;;Mais vous êtes libre
+2.3.2.2.3.10;Influence;;;circle;;;;Un peu c'est mieux que rien;;;;;;;https://fr.wikipedia.org/wiki/Engagement_(psychologie_sociale)#La_technique_du_un-peu-c.27est-mieux-que-rien;;Un peu c'est mieux que rien
+2.3.2.2.3.11;Influence;;;circle;;;;Ce n'est pas tout;;;;;;;https://fr.wikipedia.org/wiki/Engagement_(psychologie_sociale)#La_technique_du_ce-n.27est-pas-tout;;Ce n'est pas tout
+2.3.2.2.3.12;Influence;;;circle;;;;Pied dans la mémoire;;;;;;;https://fr.wikipedia.org/wiki/Engagement_(psychologie_sociale)#La_technique_du_pied-dans-la-m.C3.A9moire;;Pied dans la mémoire
+2.3.2.2.4;Influence;;;circle;;;;Encore un;;;;;;;https://en.wikipedia.org/wiki/Compliance_gaining#Just-One-More_.28JOM.29;;Encore un
+2.3.2.3;Influence;;;circle;;;;Chantage affectif;;;;;;;https://en.wikipedia.org/wiki/Emotional_blackmail;;Chantage affectif
+2.3.2.4;Influence;;;circle;;;;Attitude passive agressive;;;;;;;https://fr.wikipedia.org/wiki/Comportement_passif-agressif;;Attitude passive agressive
+2.3.2.5;Influence;;;circle;;;;Jeux de l'esprit;;;;;;;https://en.wikipedia.org/wiki/Mind_games;;Jeux de l'esprit
+2.3.3;Influence;;;circle;;;;Influence non verbale;;;;;;;https://en.wikipedia.org/wiki/Nonverbal_influence;;Influence non verbale
+2.3.3.1;Influence;;;circle;;;;Paralangage;;;;;;;https://fr.wikipedia.org/wiki/Hypnose;;Paralangage
+2.3.3.2;Influence;;;circle;;;;Chronémique;;;;;;;https://en.wikipedia.org/wiki/Chronemics;;Chronémique
+2.3.3.3;Influence;;;circle;;;;Oculésique;;;;;;;https://en.wikipedia.org/wiki/Oculesics;;Oculésique
+2.3.3.3.1;Influence;;;circle;;;;Contact visuel;;;;;;;https://fr.wikipedia.org/wiki/Contact_visuel;;Contact visuel
+2.3.3.4;Influence;;;circle;;;;Expression faciale;;;;;;;https://fr.wikipedia.org/wiki/Expression_faciale;;Expression faciale
+2.3.3.4.1;Influence;;;circle;;;;Micro-expression;;;;;;;https://fr.wikipedia.org/wiki/Micro-expression;;Micro-expression
+2.3.3.5;Influence;;;circle;;;;Gestuelle;;;;;;;https://fr.wikipedia.org/wiki/Geste;;Gestuelle
+2.3.3.5.1;Influence;;;circle;;;;Amical;;;;;;;;;Amical
+2.3.3.5.1.1;Influence;;;circle;;;;Clin d'œil;;;;;;;https://fr.wikipedia.org/wiki/Clin_d%27%C5%93il;;Clin d'œil
+2.3.3.5.1.2;Influence;;;circle;;;;Baiser;;;;;;;https://fr.wikipedia.org/wiki/Baiser;;Baiser
+2.3.3.5.1.3;Influence;;;circle;;;;Bisou esquimau;;;;;;;https://fr.wikipedia.org/wiki/Bisou_esquimau;;Bisou esquimau
+2.3.3.5.1.4;Influence;;;circle;;;;Accolade;;;;;;;https://fr.wikipedia.org/wiki/Accolade_(homonymie);;Accolade
+2.3.3.5.1.5;Influence;;;circle;;;;Fist bump;;;;;;;https://fr.wikipedia.org/wiki/Fist_bump;;Fist bump
+2.3.3.5.1.6;Influence;;;circle;;;;Shaka;;;;;;;https://fr.wikipedia.org/wiki/Shaka_(signe);;Shaka
+2.3.3.5.1.7;Influence;;;circle;;;;Croiser l'index et le majeur;;;;;;;https://fr.wikipedia.org/wiki/Gestuelle_des_doigts_et_des_mains#Croiser_l.27index_et_le_majeur;;Croiser l'index et le majeur
+2.3.3.5.2;Influence;;;circle;;;;Formel;;;;;;;;;Formel
+2.3.3.5.2.1;Influence;;;circle;;;;Baisemain;;;;;;;https://fr.wikipedia.org/wiki/Baisemain;;Baisemain
+2.3.3.5.2.2;Influence;;;circle;;;;Garde-à-vous;;;;;;;https://fr.wikipedia.org/wiki/Garde-%C3%A0-vous;;Garde-à-vous
+2.3.3.5.2.3;Influence;;;circle;;;;Génuflexion;;;;;;;https://fr.wikipedia.org/wiki/G%C3%A9nuflexion;;Génuflexion
+2.3.3.5.2.4;Influence;;;circle;;;;Inclination;;;;;;;https://fr.wikipedia.org/wiki/Inclination_(geste);;Inclination
+2.3.3.5.2.5;Influence;;;circle;;;;Kowtow;;;;;;;https://fr.wikipedia.org/wiki/Kowtow;;Kowtow
+2.3.3.5.2.6;Influence;;;circle;;;;Révérence;;;;;;;https://fr.wikipedia.org/wiki/R%C3%A9v%C3%A9rence_(geste);;Révérence
+2.3.3.5.2.7;Influence;;;circle;;;;La main sur le cœur;;;;;;;https://fr.wikipedia.org/wiki/Gestuelle_des_doigts_et_des_mains#La_main_sur_le_c.C5.93ur;;La main sur le cœur
+2.3.3.5.3;Influence;;;circle;;;;Salutation;;;;;;;;;Salutation
+2.3.3.5.3.1;Influence;;;circle;;;;Poignée de main;;;;;;;https://fr.wikipedia.org/wiki/Poign%C3%A9e_de_main;;Poignée de main
+2.3.3.5.3.2;Influence;;;circle;;;;Chapeau;;;;;;;https://fr.wikipedia.org/wiki/Chapeau#Usage;;Chapeau
+2.3.3.5.3.3;Influence;;;circle;;;;Salut militaire;;;;;;;https://fr.wikipedia.org/wiki/Salut_militaire;;Salut militaire
+2.3.3.5.3.4;Influence;;;circle;;;;Salut romain;;;;;;;https://fr.wikipedia.org/wiki/Salut_romain;;Salut romain
+2.3.3.5.3.5;Influence;;;circle;;;;Salut scout;;;;;;;https://fr.wikipedia.org/wiki/Rites_et_coutumes_dans_le_scoutisme#Salut_scout;;Salut scout
+2.3.3.5.3.6;Influence;;;circle;;;;Salut en budo;;;;;;;https://fr.wikipedia.org/wiki/Salut_en_budo;;Salut en budo
+2.3.3.5.3.7;Influence;;;circle;;;;Namasté;;;;;;;https://fr.wikipedia.org/wiki/Namasté;;Namasté
+2.3.3.5.3.8;Influence;;;circle;;;;Wai;;;;;;;https://fr.wikipedia.org/wiki/Wai;;Wai
+2.3.3.5.3.9;Influence;;;circle;;;;Salut vulcain;;;;;;;https://fr.wikipedia.org/wiki/Salut_vulcain;;Salut vulcain
+2.3.3.5.4;Influence;;;circle;;;;Idéologique;;;;;;;;;Idéologique
+2.3.3.5.4.1;Influence;;;circle;;;;Signe de croix;;;;;;;https://fr.wikipedia.org/wiki/Signe_de_croix;;Signe de croix
+2.3.3.5.4.2;Influence;;;circle;;;;Prosternation;;;;;;;https://fr.wikipedia.org/wiki/Prosternation;;Prosternation
+2.3.3.5.4.3;Influence;;;circle;;;;Imposition des mains;;;;;;;https://fr.wikipedia.org/wiki/Imposition_des_mains;;Imposition des mains
+2.3.3.5.4.4;Influence;;;circle;;;;Salut à trois doigts;;;;;;;https://fr.wikipedia.org/wiki/Salut_%C3%A0_trois_doigts;;Salut à trois doigts
+2.3.3.5.4.5;Influence;;;circle;;;;Salut fasciste;;;;;;;https://fr.wikipedia.org/wiki/Salut_fasciste;;Salut fasciste
+2.3.3.5.4.6;Influence;;;circle;;;;Poing levé;;;;;;;https://fr.wikipedia.org/wiki/Poing_lev%C3%A9;;Poing levé
+2.3.3.5.4.7;Influence;;;circle;;;;Lever le doigt;;;;;;;https://fr.wikipedia.org/wiki/Gestuelle_des_doigts_et_des_mains#Lever_le_doigt;;Lever le doigt
+2.3.3.5.4.8;Influence;;;circle;;;;Joindre les mains;;;;;;;https://fr.wikipedia.org/wiki/Gestuelle_des_doigts_et_des_mains#Joindre_les_mains;;Joindre les mains
+2.3.3.5.5;Influence;;;circle;;;;Célébration;;;;;;;;;Célébration
+2.3.3.5.5.1;Influence;;;circle;;;;Applaudissement;;;;;;;https://fr.wikipedia.org/wiki/Applaudissement;;Applaudissement
+2.3.3.5.5.1.1;Influence;;;circle;;;;Clapping;;;;;;;https://fr.wikipedia.org/wiki/Clapping_(applaudissement);;Clapping
+2.3.3.5.5.2;Influence;;;circle;;;;High five;;;;;;;https://fr.wikipedia.org/wiki/High_five;;High five
+2.3.3.5.5.3;Influence;;;circle;;;;Pouce levé;;;;;;;https://fr.wikipedia.org/wiki/Pouce_lev%C3%A9;;Pouce levé
+2.3.3.5.5.4;Influence;;;circle;;;;Standing ovation;;;;;;;https://fr.wikipedia.org/wiki/Standing_ovation;;Standing ovation
+2.3.3.5.5.5;Influence;;;circle;;;;Signe V;;;;;;;https://fr.wikipedia.org/wiki/Signe_V;;Signe V
+2.3.3.5.5.6;Influence;;;circle;;;;Se frotter les mains;;;;;;;https://fr.wikipedia.org/wiki/Gestuelle_des_doigts_et_des_mains#Se_frotter_les_mains;;Se frotter les mains
+2.3.3.5.5.7;Influence;;;circle;;;;Tendre le poing serré vers le ciel;;;;;;;https://fr.wikipedia.org/wiki/Gestuelle_des_doigts_et_des_mains#Tendre_le_poing_serr.C3.A9_vers_le_ciel;;Tendre le poing serré vers le ciel
+2.3.3.5.6;Influence;;;circle;;;;Hostile;;;;;;;;;Hostile
+2.3.3.5.6.1;Influence;;;circle;;;;Bras d'honneur;;;;;;;https://fr.wikipedia.org/wiki/Bras_d%27honneur;;Bras d'honneur
+2.3.3.5.6.2;Influence;;;circle;;;;Doigt d'honneur;;;;;;;https://fr.wikipedia.org/wiki/Doigt_d%27honneur;;Doigt d'honneur
+2.3.3.5.6.3;Influence;;;circle;;;;Pied de nez;;;;;;;https://fr.wikipedia.org/wiki/Pied_de_nez;;Pied de nez
+2.3.3.5.6.4;Influence;;;circle;;;;Signe des cornes;;;;;;;https://fr.wikipedia.org/wiki/Signe_des_cornes;;Signe des cornes
+2.3.3.5.6.5;Influence;;;circle;;;;Claquer des doigts;;;;;;;https://fr.wikipedia.org/wiki/Gestuelle_des_doigts_et_des_mains#Claquer_des_doigts;;Claquer des doigts
+2.3.3.5.6.6;Influence;;;circle;;;;Tourner ou frapper son index contre sa tempe;;;;;;;https://fr.wikipedia.org/wiki/Gestuelle_des_doigts_et_des_mains#Tourner_ou_frapper_son_index_contre_sa_tempe;;Tourner ou frapper son index contre sa tempe
+2.3.3.5.6.7;Influence;;;circle;;;;Oreilles d'âne;;;;;;;https://fr.wikipedia.org/wiki/Gestuelle_des_doigts_et_des_mains#Oreilles_d.27.C3.A2ne;;Oreilles d'âne
+2.3.3.5.6.8;Influence;;;circle;;;;Pouce baissé;;;;;;;https://fr.wikipedia.org/wiki/Gestuelle_des_doigts_et_des_mains#Pouce;;Pouce baissé
+2.3.3.5.7;Influence;;;circle;;;;Désarroi;;;;;;;;;Désarroi
+2.3.3.5.7.1;Influence;;;circle;;;;Facepalm;;;;;;;https://fr.wikipedia.org/wiki/Facepalm;;Facepalm
+2.3.3.5.7.2;Influence;;;circle;;;;Se tourner les pouces;;;;;;;https://fr.wikipedia.org/wiki/Gestuelle_des_doigts_et_des_mains#Pouce;;Se tourner les pouces
+2.3.3.5.7.3;Influence;;;circle;;;;Serrer les poings;;;;;;;https://fr.wikipedia.org/wiki/Gestuelle_des_doigts_et_des_mains#Serrer_les_poings;;Serrer les poings
+2.3.3.5.7.4;Influence;;;circle;;;;Mains portées au visage;;;;;;;https://fr.wikipedia.org/wiki/Gestuelle_des_doigts_et_des_mains#Mains_port.C3.A9es_au_visage;;Mains portées au visage
+2.3.3.5.7.5;Influence;;;circle;;;;Être encombré par ses mains;;;;;;;https://fr.wikipedia.org/wiki/Gestuelle_des_doigts_et_des_mains#.C3.8Atre_encombr.C3.A9_par_ses_mains;;Être encombré par ses mains
+2.3.3.6;Influence;;;circle;;;;Apparence physique;;;;;;;https://en.wikipedia.org/wiki/Human_physical_appearance;;Apparence physique
+2.3.3.6.1;Influence;;;circle;;;;Artéfact;;;;;;;https://en.wikipedia.org/wiki/Cultural_artifact;;Artéfact
+2.3.3.6.2;Influence;;;circle;;;;Habillement;;;;;;;https://en.wikipedia.org/wiki/Nonverbal_communication#Clothing;;Habillement
+2.3.3.7;Influence;;;circle;;;;Proxémie;;;;;;;https://fr.wikipedia.org/wiki/Prox%C3%A9mie;;Proxémie
+2.3.3.8;Influence;;;circle;;;;Posture;;;;;;;https://en.wikipedia.org/wiki/Posture_(psychology);;Posture
+2.3.3.8.1;Influence;;;circle;;;;Akimbo;;;;;;;https://en.wikipedia.org/wiki/Akimbo;;Akimbo
+2.3.3.8.2;Influence;;;circle;;;;Bras croisés;;;;;;;http://changingminds.org/techniques/body/parts_body_language/arm_body_language.htm#cro;;Bras croisés
+2.3.3.9;Influence;;;circle;;;;Haptique;;;;;;;https://en.wikipedia.org/wiki/Haptic_communication;;Haptique
+3;Erreur mathématique;;;square;;;;Erreur mathématique;;;;;;;;;Erreur mathématique
+3.1;Erreur mathématique;;;circle;;;;Généralisation abusive;;;;;;;https://en.wikipedia.org/wiki/Faulty_generalization;;Généralisation abusive
+3.1.1;Erreur mathématique;;;circle;;;;Echantillon biaisé;;;;;;;https://fr.wikipedia.org/wiki/%C3%89chantillon_biais%C3%A9;;Echantillon biaisé
+3.1.1.1;Erreur mathématique;;;circle;;;;Echantillon non représentatif;;;;;;;http://www.fallacyfiles.org/biassamp.html;;Echantillon non représentatif
+3.1.1.1.1;Erreur mathématique;;;circle;;;;Généralisation hâtive;;;;;;;https://en.wikipedia.org/wiki/Hasty_generalization;;Généralisation hâtive
+3.1.1.1.1.1;Erreur mathématique;;;circle;;;;Argument par les petits nombres;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#numbers;;Argument par les petits nombres
+3.1.1.1.1.2;Erreur mathématique;4.3.1;;circle;;;;Conclusion hâtive;;;;;;;;;Conclusion hâtive
+3.1.1.1.2;Erreur mathématique;;;circle;;;;Appel à la coïncidence;;;;;;;https://en.wikipedia.org/wiki/Slothful_induction;;Appel à la coïncidence
+3.1.1.2;Erreur mathématique;;;circle;;;;Cueillette de cerises;;;;;;;https://fr.wikipedia.org/wiki/Cueillette_de_cerises;;Cueillette de cerises
+3.1.1.2.1;Erreur mathématique;;;circle;;;;Détail trompeur (Sophisme Volvo);;;;;;;https://en.wikipedia.org/wiki/Misleading_vividness;;Détail trompeur (Sophisme Volvo)
+3.1.1.2.2;Erreur mathématique;;;circle;;;;Sophisme de l'apex;;;;;;;http://rationalwiki.org/wiki/Apex_fallacy;;Sophisme de l'apex
+3.1.1.2.2.1;Erreur mathématique;;;circle;;;;Cueillette des noix;;;;;;;http://rationalwiki.org/wiki/Nutpicking;;Cueillette des noix
+3.1.1.2.3;Erreur mathématique;;;circle;;;;Biais de représentativité;;;;;;;https://fr.wikipedia.org/wiki/Biais_de_repr%C3%A9sentativit%C3%A9;;Biais de représentativité
+3.1.1.2.4;Erreur mathématique;;;circle;;;;Biais des survivants;;;;;;;https://en.wikipedia.org/wiki/Survivorship_bias;;Biais des survivants
+3.1.1.2.4.1;Erreur mathématique;;;circle;;;;Sophisme du toupée;;;;;;;http://rationalwiki.org/wiki/Toupee_fallacy;;Sophisme du toupée
+3.1.1.2.5;Erreur mathématique;;;circle;;;;Sophisme d'exclusion;;;;;;;http://www.onegoodmove.org/fallacy/exclus.htm;;Sophisme d'exclusion
+3.1.2;Erreur mathématique;;;circle;;;;Secundum quid;;;;;;;https://en.wikipedia.org/wiki/Secundum_quid;;Secundum quid
+3.1.2.1;Erreur mathématique;;;circle;;;;Accident / Détruire l'exception (a Dicto simpliciter);;;;;;;https://en.wikipedia.org/wiki/Accident_(fallacy);;Accident / Détruire l'exception (a Dicto simpliciter)
+3.1.2.1.1;Erreur mathématique;;;circle;;;;Sophisme du vrai écossais;;;;;;;68579d55-d8d2-49ea-9347-5faf4881baca;;Sophisme du vrai écossais
+3.1.2.2;Erreur mathématique;;;circle;;;;Accident Converse (généraliser l'exception);;;;;;;https://en.wikipedia.org/wiki/Converse_accident;;Accident Converse (généraliser l'exception)
+3.1.2.3;Erreur mathématique;;;circle;;;;Généralisation excessive;;;;;;;;;Généralisation excessive
+3.1.2.3.1;Erreur mathématique;;;circle;;;;Stéréotype;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/167/Stereotyping;;Stéréotype
+3.1.2.4;Erreur mathématique;;;circle;;;;Exception écrasante;;;;;;;https://en.wikipedia.org/wiki/Overwhelming_exception;;Exception écrasante
+3.1.3;Erreur mathématique;;;circle;;;;Sophismes de transférence illicite;;;;;;;https://en.wikipedia.org/wiki/Fallacies_of_illicit_transference;;Sophismes de transférence illicite
+3.1.3.1;Erreur mathématique;;;circle;;;;Sophisme de composition;;;;;;;https://fr.wikipedia.org/wiki/Sophisme_de_composition;;Sophisme de composition
+3.1.3.1.1;Erreur mathématique;;;circle;;;;Théorie de la récapitulation;;;;;;;https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_la_r%C3%A9capitulation;;Théorie de la récapitulation
+3.1.3.1.2;Erreur mathématique;;;circle;;;;Sophisme métonymique/synecdotique;;;;;;;http://www.cs.oswego.edu/~blue/xhx/books/semiotics/glossaryM/section111/main.html;;Sophisme métonymique/synecdotique
+3.1.3.2;Erreur mathématique;;;circle;;;;Sophisme de division;;;;;;;https://en.wikipedia.org/wiki/Fallacy_of_division;;Sophisme de division
+3.1.3.2.1;Erreur mathématique;;;circle;;;;Sophisme écologique;;;;;;;https://en.wikipedia.org/wiki/Ecological_fallacy;;Sophisme écologique
+3.1.3.2.1.1;Erreur mathématique;;;circle;;;;Paradoxe de simpson;;;;;;;https://fr.wikipedia.org/wiki/Paradoxe_de_Simpson;;Paradoxe de simpson
+3.1.3.2.1.2;Erreur mathématique;;;circle;;;;Moyenne et médiane;;;;;;;https://en.wikipedia.org/wiki/Ecological_fallacy#Mean_and_median;;Moyenne et médiane
+3.1.3.2.1.3;Erreur mathématique;;;circle;;;;Moyenne de groupe et totale;;;;;;;https://en.wikipedia.org/wiki/Ecological_fallacy#Group_and_total_averages;;Moyenne de groupe et totale
+3.1.3.2.1.4;Erreur mathématique;;;circle;;;;Correlations individuelles et agrégats;;;;;;;https://en.wikipedia.org/wiki/Ecological_fallacy#Individual_and_aggregate_correlations;;Correlations individuelles et agrégats
+3.1.3.2.2;Erreur mathématique;;;circle;;;;Réductionisme glouton;;;;;;;https://en.wikipedia.org/wiki/Greedy_reductionism;;Réductionisme glouton
+3.2;Erreur mathématique;;;circle;;;;Représentation abusive;;;;;;;https://fr.wikipedia.org/wiki/R%C3%A9gression_fallacieuse;;Représentation abusive
+3.2.1;Erreur mathématique;;;circle;;;;Relation infondée;;;;;;;https://en.wikipedia.org/wiki/Spurious_relationship;;Relation infondée
+3.2.1.1;Erreur mathématique;;;circle;;;;Cum Hoc Ergo Propter Hoc;;;;;;;4ecfbf5e-71a9-451e-ada7-25e235d656af;;Cum Hoc Ergo Propter Hoc
+3.2.1.2;Erreur mathématique;;;circle;;;;Post Hoc Ergo Propter Hoc;;;;;;;78eafdf3-71ee-4032-a926-faf16637fc1d;;Post Hoc Ergo Propter Hoc
+3.2.1.3;Erreur mathématique;;;circle;;;;Sophisme de regression;;;;;;;http://www.fallacyfiles.org/regressf.html;;Sophisme de regression
+3.2.1.4;Erreur mathématique;;;circle;;;;Post désignation;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/142/Post-Designation;;Post désignation
+3.2.1.4.1;Erreur mathématique;;;circle;;;;Tireur d'élite texan;;;;;;;https://fr.wikipedia.org/wiki/Sophisme_du_tireur_d%27%C3%A9lite_texan;;Tireur d'élite texan
+3.2.1.4.2;Erreur mathématique;;;circle;;;;Comparaisons multiples;;;;;;;http://www.fallacyfiles.org/multcomp.html;;Comparaisons multiples
+3.2.1.4.3;Erreur mathématique;;;circle;;;;Argument chausse-pied;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/161/Shoehorning;;Argument chausse-pied
+3.2.1.4.4;Erreur mathématique;;;circle;;;;Statistiques occultes;;;;;;;http://skepdic.com/occultstats.html;;Statistiques occultes
+3.2.2;Erreur mathématique;;;circle;;;;Sophismes probabilistes;;;;;;;http://www.fallacyfiles.org/probfall.html;;Sophismes probabilistes
+3.2.2.1;Erreur mathématique;;;circle;;;;Manipulation des probabilités;;;;;;;https://en.wikipedia.org/wiki/Appeal_to_probability;;Manipulation des probabilités
+3.2.2.1.1;Erreur mathématique;;;circle;;;;Au cas où;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/116/Just-In-Case-Fallacy;;Au cas où
+3.2.2.2;Erreur mathématique;;;circle;;;;Probabilités conditionnelles;;;;;;;;;Probabilités conditionnelles
+3.2.2.2.1;Erreur mathématique;;;circle;;;;Oubli de la fréquence de base;;;;;;;https://fr.wikipedia.org/wiki/Oubli_de_la_fr%C3%A9quence_de_base;;Oubli de la fréquence de base
+3.2.2.2.2;Erreur mathématique;;;circle;;;;Argument de l'apocalypse;;;;;;;https://fr.wikipedia.org/wiki/Argument_de_l%27apocalypse;;Argument de l'apocalypse
+3.2.2.2.3;Erreur mathématique;;;circle;;;;sophisme du procureur;;;;;;;https://fr.wikipedia.org/wiki/Sophisme_du_procureur;;sophisme du procureur
+3.2.2.2.4;Erreur mathématique;;;circle;;;;Confusion de l'inverse;;;;;;;https://en.wikipedia.org/wiki/Confusion_of_the_inverse;;Confusion de l'inverse
+3.2.2.3;Erreur mathématique;;;circle;;;;La ruine du parieur;;;;;;;https://en.wikipedia.org/wiki/Gambler%27s_ruin;;La ruine du parieur
+3.2.2.3.1;Erreur mathématique;;;circle;;;;La main chaude;;;;;;;http://www.fallacyfiles.org/hothandf.html;;La main chaude
+3.2.2.3.2;Erreur mathématique;;;circle;;;;Erreur du parieur;;;;;;;https://fr.wikipedia.org/wiki/Erreur_du_parieur;;Erreur du parieur
+3.2.2.3.3;Erreur mathématique;;;circle;;;;Erreur du parrieur inverse;;;;;;;https://en.wikipedia.org/wiki/Inverse_gambler%27s_fallacy;;Erreur du parrieur inverse
+3.2.2.3.4;Erreur mathématique;;;circle;;;;Vanité du parieur;;;;;;;https://en.wikipedia.org/wiki/Gambler%27s_conceit;;Vanité du parieur
+3.2.3;Erreur mathématique;;;circle;;;;Argument de la régression;;;;;;;https://fr.wikipedia.org/wiki/Argument_de_la_r%C3%A9gression;;Argument de la régression
+3.2.3.1;Erreur mathématique;;;circle;;;;Atomisation du Continuum;;;;;;;https://en.wikipedia.org/wiki/Continuum_fallacy;;Atomisation du Continuum
+3.2.3.1.1;Erreur mathématique;5.3.2.1.2.1;;circle;;;;Argument de la barbe;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/58/Argument-of-the-Beard;;Argument de la barbe
+3.2.3.2;Erreur mathématique;;;circle;;;;Hypothèse de l'homoncule;;;;;;;https://fr.wikipedia.org/wiki/Hypoth%C3%A8se_de_l%27homoncule;;Hypothèse de l'homoncule
+3.3;Erreur mathématique;;;circle;;;;Calcul invalide;;;;;;;;;Calcul invalide
+3.3.1;Erreur mathématique;;;circle;;;;Imprécision;;;;;;;http://www.fallacyfiles.org/vaguenes.html;;Imprécision
+3.3.1.1;Erreur mathématique;;;circle;;;;Fausse précision;;;;;;;https://en.wikipedia.org/wiki/False_precision;;Fausse précision
+3.3.1.1.1;Erreur mathématique;;;circle;;;;Manipuler les statistiques;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/122/Lying-with-Statistics;;Manipuler les statistiques
+3.3.1.2;Erreur mathématique;;;circle;;;;Faux équilibre;;;;;;;https://en.wikipedia.org/wiki/False_balance;;Faux équilibre
+3.3.1.2.1;Erreur mathématique;;;circle;;;;Inflation du conflit;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/113/Inflation-of-Conflict;;Inflation du conflit
+3.3.1.2.2;Erreur mathématique;;;circle;;;;Juste milieu;;;;;;;https://en.wikipedia.org/wiki/Argument_to_moderation;;Juste milieu
+3.3.1.2.2.1;Erreur mathématique;;;circle;;;;Design par comité;;;;;;;https://en.wikipedia.org/wiki/Design_by_committee;;Design par comité
+3.3.1.2.3;Erreur mathématique;;;circle;;;;Coup de projecteur;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/165/Spotlight-Fallacy;;Coup de projecteur
+3.3.1.2.4;Erreur mathématique;;;circle;;;;Sophisme de la vitre cassée;;;;;;;https://fr.wikipedia.org/wiki/Sophisme_de_la_vitre_cass%C3%A9e;;Sophisme de la vitre cassée
+3.3.1.3;Erreur mathématique;;;circle;;;;Appel aux extrèmes;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/30/Appeal-to-Extremes;;Appel aux extrèmes
+3.3.1.3.1;Erreur mathématique;;;circle;;;;Pente glissante;;;;;;;https://fr.wikipedia.org/wiki/Pente_savonneuse;;Pente glissante
+3.3.1.3.2;Erreur mathématique;;;circle;;;;L'abus n'exclut pas l'usage (Abusus non tollit usum);;;;;;;http://www.locutio.net/locutio/modules.php?name=Encyclopedia&op=content&tid=6663;;L'abus n'exclut pas l'usage (Abusus non tollit usum)
+3.3.1.3.3;Erreur mathématique;;;circle;;;;Hypothèse non plausible;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/117/Least-Plausible-Hypothesis;;Hypothèse non plausible
+3.3.2;Erreur mathématique;;;circle;;;;Erreur de calcul;;;;;;;;;Erreur de calcul
+3.3.2.1;Erreur mathématique;;;circle;;;;Double compte;;;;;;;https://en.wikipedia.org/wiki/Double_counting_(fallacy);;Double compte
+3.3.2.2;Erreur mathématique;;;circle;;;;Paradoxes;;;;;;;https://en.wikipedia.org/wiki/List_of_paradoxes;;Paradoxes
+3.3.2.2.1;Erreur mathématique;;;circle;;;;Dollar manquant;;;;;;;https://fr.wikipedia.org/wiki/%C3%89nigme_du_dollar_manquant;;Dollar manquant
+3.3.2.2.2;Erreur mathématique;;;circle;;;;les deux enveloppes;;;;;;;https://fr.wikipedia.org/wiki/Paradoxe_des_deux_enveloppes;;les deux enveloppes
+3.3.2.2.3;Erreur mathématique;;;circle;;;;Paradoxe du cellophane;;;;;;;https://en.wikipedia.org/wiki/Cellophane_paradox;;Paradoxe du cellophane
+3.3.2.2.4;Erreur mathématique;;;circle;;;;Paradoxe de Russell;;;;;;;http://rationalwiki.org/wiki/Russell%27s_paradox;;Paradoxe de Russell
+3.3.2.2.5;Erreur mathématique;;;circle;;;;Phénomène de Rogers;;;;;;;https://fr.wikipedia.org/wiki/Ph%C3%A9nom%C3%A8ne_de_Rogers;;Phénomène de Rogers
+3.3.2.3;Erreur mathématique;;;circle;;;;Erreur numérique;;;;;;;https://en.wikipedia.org/wiki/Numerical_error;;Erreur numérique
+3.3.3;Erreur mathématique;;;circle;;;;Mauvaise application d'une règle;;;;;;;;;Mauvaise application d'une règle
+3.3.3.1;Erreur mathématique;;;circle;;;;Sophismes mathématiques;;;;;;;https://en.wikipedia.org/wiki/Mathematical_fallacy;;Sophismes mathématiques
+3.3.3.1.1;Erreur mathématique;;;circle;;;;Division par zéro;;;;;;;http://mathworld.wolfram.com/Fallacy.html;;Division par zéro
+3.3.3.1.2;Erreur mathématique;;;circle;;;;Pseudo démonstrations;;;;;;;https://fr.wikipedia.org/wiki/Pseudo-d%C3%A9monstration_d%27%C3%A9galit%C3%A9_entre_nombres;;Pseudo démonstrations
+3.3.3.2;Erreur mathématique;;;circle;;;;Mauvaise application d'une notation;;;;;;;;;Mauvaise application d'une notation
+3.3.3.3;Erreur mathématique;;;circle;;;;Pseudoscience;;;;;;;http://skepdic.com/pseudosc.html;;Pseudoscience
+4;Erreur logique;;;square;;;;Erreur logique;;;;;;;;;Erreur logique
+4.1;Erreur logique;;;circle;;;;Causalité douteuse;;;;;;;http://www.nizkor.org/features/fallacies/questionable-cause.html;;Causalité douteuse
+4.1.1;Erreur logique;;;circle;;;;Pétition de principe;;;;;;;https://fr.wikipedia.org/wiki/P%C3%A9tition_de_principe;;Pétition de principe
+4.1.1.1;Erreur logique;;;circle;;;;Argument circulaire (Circulus in demonstrando);;;;;;;https://fr.wikipedia.org/wiki/Argument_circulaire;;Argument circulaire (Circulus in demonstrando)
+4.1.1.2;Erreur logique;;;circle;;;;Compliquer les questions;;;;;;;22f4110b-d415-4de9-b0b8-eb2d1253a891;;Compliquer les questions
+4.1.1.3;Erreur logique;;;circle;;;;Ignoratio elenchi;;;;;;;e535e268-c962-4d76-b6f0-6cf9dbc3e2ba;;Ignoratio elenchi
+4.1.1.4;Erreur logique;;;circle;;;;Analogie à pétition de principe;;;;;;;a11de021-40ca-4459-a002-9b1b485610a1;;Analogie à pétition de principe
+4.1.1.5;Erreur logique;;;circle;;;;Support subverti;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/172/Subverted-Support;;Support subverti
+4.1.1.6;Erreur logique;;;circle;;;;Pente glissante (causale);;;;;;;www.fallacyfiles.org/slipslop.html#Causal;;Pente glissante (causale)
+4.1.2;Erreur logique;;;circle;;;;Mauvaise direction;;;;;;;https://en.wikipedia.org/wiki/Wrong_direction;;Mauvaise direction
+4.1.2.1;Erreur logique;;;circle;;;;Affirmation du conséquent;;;;;;;https://fr.wikipedia.org/wiki/Affirmation_du_cons%C3%A9quent;;Affirmation du conséquent
+4.1.2.1.1;Erreur logique;;;circle;;;;Sophisme de Van Gogh;;;;;;;https://en.wikipedia.org/wiki/Van_Gogh_fallacy;;Sophisme de Van Gogh
+4.1.2.2;Erreur logique;;;circle;;;;Confondre cause nécesssaire et suffisante;;;;;;;http://www.bargain-storage.com/uploads/9/8/7/4/9874916/attacking.faulty.reasoning.a.practical.guide.to.fallacyfree.arguments.pdf#page=190;;Confondre cause nécesssaire et suffisante
+4.1.2.3;Erreur logique;;;circle;;;;Confondre la cause et l'effet;;;;;;;http://www.bargain-storage.com/uploads/9/8/7/4/9874916/attacking.faulty.reasoning.a.practical.guide.to.fallacyfree.arguments.pdf#page=195;;Confondre la cause et l'effet
+4.1.2.4;Erreur logique;;;circle;;;;Guérir le mal par le mal;;;;;;;https://fr.wikipedia.org/wiki/Two_wrongs_make_a_right;;Guérir le mal par le mal
+4.1.2.4.1;Erreur logique;;;circle;;;;Tu Quoque;;;;;;;c171b494-27ba-459f-aaad-88d28d64a1f6;;Tu Quoque
+4.1.2.4.2;Erreur logique;;;circle;;;;Cause rétrogressive;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/156/Retrogressive-Causation;;Cause rétrogressive
+4.1.2.4.2.1;Erreur logique;;;circle;;;;Boire pour oublier;;;;;;;https://fr.wiktionary.org/wiki/L%C3%A9th%C3%A9;;Boire pour oublier
+4.1.2.5;Erreur logique;3.2.2.3;;circle;;;;Sophismes du parieur;;;;;;;;;Sophismes du parieur
+4.1.2.6;Erreur logique;;;circle;;;;Effet Pangloss;;;;;;;https://cortecs.org/materiel/effet-pangloss-ou-les-dangers-des-raisonnements-a-rebours/;;Effet Pangloss
+4.1.3;Erreur logique;;;circle;;;;Confondre causalité et corrélation;;;;;;;https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation;;Confondre causalité et corrélation
+4.1.3.1;Erreur logique;;;circle;;;;Réductionisme causal;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/64/Causal-Reductionism;;Réductionisme causal
+4.1.3.1.1;Erreur logique;;;circle;;;;Cause unique (complexe);;;;;;;https://fr.wikipedia.org/wiki/Sophisme_de_la_cause_unique;;Cause unique (complexe)
+4.1.3.1.1.1;Erreur logique;;;circle;;;;Négation de l'antécédent;;;;;;;https://fr.wikipedia.org/wiki/N%C3%A9gation_de_l%27ant%C3%A9c%C3%A9dent;;Négation de l'antécédent
+4.1.3.1.2;Erreur logique;;;circle;;;;Simplification causale abusive;;;;;;;http://www.bargain-storage.com/uploads/9/8/7/4/9874916/attacking.faulty.reasoning.a.practical.guide.to.fallacyfree.arguments.pdf#page=191;;Simplification causale abusive
+4.1.3.2;Erreur logique;;;circle;;;;Ignorer la cause commune (effet conjoint);;;;;;;https://en.wikipedia.org/wiki/Third-cause_fallacy;;Ignorer la cause commune (effet conjoint)
+4.1.3.3;Erreur logique;;;circle;;;;Cum Hoc Ergo Propter Hoc;;;;;;;https://fr.wikipedia.org/wiki/Cum_hoc_ergo_propter_hoc;;Cum Hoc Ergo Propter Hoc
+4.1.3.4;Erreur logique;;;circle;;;;Post Hoc Ergo Propter Hoc;;;;;;;https://fr.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc;;Post Hoc Ergo Propter Hoc
+4.2;Erreur logique;;;circle;;;;Mauvaise catégorisation;;;;;;;;;Mauvaise catégorisation
+4.2.1;Erreur logique;;;circle;;;;Propositionnel;;;;;;;http://www.fallacyfiles.org/propfall.html;;Propositionnel
+4.2.1.1;Erreur logique;;;circle;;;;Affirmation du conséquent;;;;;;;1d890b03-f88c-488a-8e75-b8a883876007;;Affirmation du conséquent
+4.2.1.2;Erreur logique;;;circle;;;;Négation de l'antécédent;;;;;;;2f446bcc-dfc6-4741-aebc-7bdfbced643d;;Négation de l'antécédent
+4.2.1.3;Erreur logique;;;circle;;;;Transposition impropre;;;;;;;http://www.fallacyfiles.org/imptrans.html;;Transposition impropre
+4.2.1.4;Erreur logique;;;circle;;;;Commutation des conditionnelles;;;;;;;http://www.fallacyfiles.org/commcond.html;;Commutation des conditionnelles
+4.2.1.5;Erreur logique;;;circle;;;;L'un n'empèche pas l'autre;;;;;;;;;L'un n'empèche pas l'autre
+4.2.1.5.1;Erreur logique;;;circle;;;;Affirmation d'une disjonction;;;;;;;https://fr.wikipedia.org/wiki/Affirmation_d%27une_disjonction;;Affirmation d'une disjonction
+4.2.1.5.2;Erreur logique;;;circle;;;;Déni de conjonction;;;;;;;http://www.fallacyfiles.org/denyconj.html;;Déni de conjonction
+4.2.2;Erreur logique;;;circle;;;;Quantification;;;;;;;http://www.fallacyfiles.org/quanfall.html;;Quantification
+4.2.2.1;Erreur logique;;;circle;;;;Glissement du quantiticateur;;;;;;;https://en.wikipedia.org/wiki/Quantifier_shift;;Glissement du quantiticateur
+4.2.2.2;Erreur logique;;;circle;;;;Suppression du quantificateur;;;;;;;http://www.ditext.com/fearnside/41.html;;Suppression du quantificateur
+4.2.2.3;Erreur logique;;;circle;;;;Preuve par l'exemple;;;;;;;https://en.wikipedia.org/wiki/Proof_by_example;;Preuve par l'exemple
+4.2.2.4;Erreur logique;;;circle;;;;Conversion illicite;;;;;;;http://www.fallacyfiles.org/illiconv.html;;Conversion illicite
+4.2.2.5;Erreur logique;;;circle;;;;Contraposition illicite;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/108/Illicit-Contraposition;;Contraposition illicite
+4.2.2.6;Erreur logique;;;circle;;;;sophisme existentiel;;;;;;;https://en.wikipedia.org/wiki/Existential_fallacy;;sophisme existentiel
+4.2.3;Erreur logique;;;circle;;;;Modale;;;;;;;http://www.fallacyfiles.org/modalfal.html;;Modale
+4.2.3.1;Erreur logique;;;circle;;;;Sophisme de portée modale;;;;;;;http://www.fallacyfiles.org/modlscop.html;;Sophisme de portée modale
+4.2.3.2;Erreur logique;;;circle;;;;Alethique (possibilité vs nécessité);;;;;;;;;Alethique (possibilité vs nécessité)
+4.2.3.3;Erreur logique;;;circle;;;;Temporale (passé vs futur);;;;;;;;;Temporale (passé vs futur)
+4.2.3.4;Erreur logique;;;circle;;;;Déontique (devoir vs permission);;;;;;;;;Déontique (devoir vs permission)
+4.2.3.5;Erreur logique;;;circle;;;;Epistémique (connaissance vs croyance);;;;;;;;;Epistémique (connaissance vs croyance)
+4.2.3.5.1;Erreur logique;;;circle;;;;Homme masqué;;;;;;;https://en.wikipedia.org/wiki/Masked-man_fallacy;;Homme masqué
+4.3;Erreur logique;;;circle;;;;Mauvaise déduction;;;;;;;;;Mauvaise déduction
+4.3.1;Erreur logique;;;circle;;;;Conclusion hâtive;;;;;;;https://en.wikipedia.org/wiki/Jumping_to_conclusions;;Conclusion hâtive
+4.3.1.1;Erreur logique;;;circle;;;;Prémisses non pertinentes;;;;;;;http://www.bargain-storage.com/uploads/9/8/7/4/9874916/attacking.faulty.reasoning.a.practical.guide.to.fallacyfree.arguments.pdf#page=106;;Prémisses non pertinentes
+4.3.1.1.1;Erreur logique;;;circle;;;;Sophisme génétique;;;;;;;http://www.bargain-storage.com/uploads/9/8/7/4/9874916/attacking.faulty.reasoning.a.practical.guide.to.fallacyfree.arguments.pdf#page=112;;Sophisme génétique
+4.3.1.1.2;Erreur logique;;;circle;;;;Rationalisation (Trouver des excuses);;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/149/Rationalization;;Rationalisation (Trouver des excuses)
+4.3.1.1.2.1;Erreur logique;;;circle;;;;Hypothèse farfelue;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/96/Far-Fetched-Hypothesis;;Hypothèse farfelue
+4.3.1.1.2.1.1;Erreur logique;;;circle;;;;Familiarité étonante;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#familiarity;;Familiarité étonante
+4.3.1.1.3;Erreur logique;;;circle;;;;Tirer les mauvaises conclusions;;;;;;;http://www.bargain-storage.com/uploads/9/8/7/4/9874916/attacking.faulty.reasoning.a.practical.guide.to.fallacyfree.arguments.pdf#page=110;;Tirer les mauvaises conclusions
+4.3.1.1.4;Erreur logique;;;circle;;;;Donner de mauvaises raisons;;;;;;;http://www.bargain-storage.com/uploads/9/8/7/4/9874916/attacking.faulty.reasoning.a.practical.guide.to.fallacyfree.arguments.pdf#page=112;;Donner de mauvaises raisons
+4.3.1.2;Erreur logique;;;circle;;;;fausse équivalance;;;;;;;https://en.wikipedia.org/wiki/False_equivalence;;fausse équivalance
+4.3.1.3;Erreur logique;;;circle;;;;Saut de foi;;;;;;;https://en.wikipedia.org/wiki/Leap_of_faith;;Saut de foi
+4.3.1.4;Erreur logique;;;circle;;;;Sophisme du faisceau de preuves;;;;;;;https://cortecs.org/wp-content/uploads/2010/11/CorteX_Monvoisin_these_didactique_esprit_critique.pdf#page=244;;Sophisme du faisceau de preuves
+4.3.2;Erreur logique;;;circle;;;;Inconsistence;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/112/Inconsistency;;Inconsistence
+4.3.2.1;Erreur logique;;;circle;;;;Premisses incompatibles;;;;;;;http://www.bargain-storage.com/uploads/9/8/7/4/9874916/attacking.faulty.reasoning.a.practical.guide.to.fallacyfree.arguments.pdf#page=85;;Premisses incompatibles
+4.3.2.1.1;Erreur logique;;;circle;;;;Concept volé;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/168/Stolen-Concept-Fallacy;;Concept volé
+4.3.2.2;Erreur logique;;;circle;;;;Contradiction interne;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#contradiction;;Contradiction interne
+4.3.2.2.1;Erreur logique;;;circle;;;;Logique du chaudron (kettle logic);;;;;;;https://fr.wikipedia.org/wiki/Logique_du_chaudron;;Logique du chaudron (kettle logic)
+4.3.2.3;Erreur logique;;;circle;;;;Contradiction entre prémisse et conclusion;;;;;;;http://www.bargain-storage.com/uploads/9/8/7/4/9874916/attacking.faulty.reasoning.a.practical.guide.to.fallacyfree.arguments.pdf#page=87;;Contradiction entre prémisse et conclusion
+4.3.3;Erreur logique;;;circle;;;;Sophismes syllogistiques;;;;;;;http://www.fallacyfiles.org/syllfall.html;;Sophismes syllogistiques
+4.3.3.1;Erreur logique;;;circle;;;;Conclusion affirmative à partir de premisse négative;;;;;;;https://en.wikipedia.org/wiki/Affirmative_conclusion_from_a_negative_premise;;Conclusion affirmative à partir de premisse négative
+4.3.3.2;Erreur logique;;;circle;;;;Conclusion négative à partir de premisses affirmatives;;;;;;;https://en.wikipedia.org/wiki/Negative_conclusion_from_affirmative_premises;;Conclusion négative à partir de premisses affirmatives
+4.3.3.3;Erreur logique;;;circle;;;;Quaternio terminorum;;;;;;;https://fr.wikipedia.org/wiki/Quaternio_terminorum;;Quaternio terminorum
+4.3.3.4;Erreur logique;;;circle;;;;Enthymême;;;;;;;http://rationalwiki.org/wiki/Enthymeme;;Enthymême
+4.3.3.4.1;Erreur logique;;;circle;;;;Prémisse implicite (présuposé, Audiatur et altera pars);;;;;;;https://infidels.org/library/modern/mathew/logic.html#alterapars;;Prémisse implicite (présuposé, Audiatur et altera pars)
+4.3.3.5;Erreur logique;;;circle;;;;Milieu non distribué;;;;;;;https://en.wikipedia.org/wiki/Fallacy_of_the_undistributed_middle;;Milieu non distribué
+4.3.3.5.1;Erreur logique;;;circle;;;;Syllogisme du politicien;;;;;;;https://en.wikipedia.org/wiki/Politician%27s_syllogism;;Syllogisme du politicien
+4.3.3.6;Erreur logique;;;circle;;;;Prémisses exclusives;;;;;;;https://en.wikipedia.org/wiki/Fallacy_of_exclusive_premises;;Prémisses exclusives
+4.3.3.7;Erreur logique;;;circle;;;;Processus illicite;;;;;;;http://www.fallacyfiles.org/illicitp.html;;Processus illicite
+4.3.3.7.1;Erreur logique;;;circle;;;;Clause Majeure incorrecte;;;;;;;https://en.wikipedia.org/wiki/Illicit_major;;Clause Majeure incorrecte
+4.3.3.7.2;Erreur logique;;;circle;;;;Clause Mineure incorrecte;;;;;;;https://en.wikipedia.org/wiki/Illicit_minor;;Clause Mineure incorrecte
+4.3.3.8;Erreur logique;;;circle;;;;Distribution illicite d'une conclusion;;;;;;;http://www.bargain-storage.com/uploads/9/8/7/4/9874916/attacking.faulty.reasoning.a.practical.guide.to.fallacyfree.arguments.pdf#page=98;;Distribution illicite d'une conclusion
+5;Erreur de langue;;;square;;;;Erreur de langue;;;;;;;;;Erreur de langue
+5.1;Erreur de langue;;;circle;;;;Mauvaise définition;;;;;;;https://en.wikipedia.org/wiki/Fallacies_of_definition;;Mauvaise définition
+5.1.1;Erreur de langue;;;circle;;;;Définition vague;;;;;;;http://www.ditext.com/fearnside/10.html;;Définition vague
+5.1.1.1;Erreur de langue;7.1.3.1;;circle;;;;Défaut d'élucidation (Obscurum per Obscurius);;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/85/Failure_to_Elucidate;;Défaut d'élucidation (Obscurum per Obscurius)
+5.1.1.2;Erreur de langue;;;circle;;;;Indéfinissabilité (pari de Loki);;;;;;;https://en.wikipedia.org/wiki/Loki%27s_Wager;;Indéfinissabilité (pari de Loki)
+5.1.2;Erreur de langue;;;circle;;;;Définition arbitraire;;;;;;;https://fr.wikipedia.org/wiki/Arbitraire;;Définition arbitraire
+5.1.2.1;Erreur de langue;;;circle;;;;Incongruité;;;;;;;https://en.wikipedia.org/wiki/Fallacies_of_definition#Incongruity:_overly_broad_or_narrow;;Incongruité
+5.1.2.1.1;Erreur de langue;;;circle;;;;Trop large;;;;;;;http://www.onegoodmove.org/fallacy/broad.htm;;Trop large
+5.1.2.1.2;Erreur de langue;;;circle;;;;Trop restrictive;;;;;;;http://www.onegoodmove.org/fallacy/narrow.htm;;Trop restrictive
+5.1.2.2;Erreur de langue;;;circle;;;;Sophismes de correlative;;;;;;;https://en.wikipedia.org/wiki/Correlative-based_fallacies;;Sophismes de correlative
+5.1.2.2.1;Erreur de langue;;;circle;;;;Contraste perdu;;;;;;;https://en.wikipedia.org/wiki/Suppressed_correlative;;Contraste perdu
+5.1.2.2.2;Erreur de langue;;;circle;;;;Deni de correlative;;;;;;;https://en.wikipedia.org/wiki/Denying_the_correlative;;Deni de correlative
+5.1.2.2.3;Erreur de langue;;;circle;;;;Sophisme du vrai écossais;;;;;;;https://fr.wikipedia.org/wiki/Sophisme_du_vrai_%C3%89cossais;;Sophisme du vrai écossais
+5.1.2.2.4;Erreur de langue;3.3.1.2.2;;circle;;;;Faux choix;;;;;;;https://fr.wikipedia.org/wiki/Faux_dilemme;;Faux choix
+5.1.2.2.4.1;Erreur de langue;;;circle;;;;A court ou long terme;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#short;;A court ou long terme
+5.1.2.2.4.2;Erreur de langue;;;circle;;;;Sophismes philosophique;;;;;;;http://www.springer.com/us/book/9783319207827;;Sophismes philosophique
+5.1.2.2.4.3;Erreur de langue;;;circle;;;;Vous êtes avec nous ou contre nous;;;;;;;https://fr.wikipedia.org/wiki/Ou_vous_%C3%AAtes_avec_nous,_ou_vous_%C3%AAtes_contre_nous;;Vous êtes avec nous ou contre nous
+5.1.2.2.5;Erreur de langue;;;circle;;;;Solution parfaite;;;;;;;31174ebd-fe84-4dbc-87ba-ee9a6541a04a;;Solution parfaite
+5.1.2.3;Erreur de langue;;;circle;;;;Définition persuasive;;;;;;;c23499f5-5197-4811-8d1f-8969b2cdef4b;;Définition persuasive
+5.1.3;Erreur de langue;;;circle;;;;Définition invalide;;;;;;;;;Définition invalide
+5.1.3.1;Erreur de langue;;;circle;;;;Conditions conflictuelles;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/70/Conflicting-Conditions;;Conditions conflictuelles
+5.1.3.1.1;Erreur de langue;;;circle;;;;Concept volé;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/168/Stolen-Concept-Fallacy;;Concept volé
+5.1.3.2;Erreur de langue;;;circle;;;;Définition Circulaire;;;;;;;http://rationalwiki.org/wiki/Circular_reasoning;;Définition Circulaire
+5.1.3.2.1;Erreur de langue;;;circle;;;;Argument du dictionaire;;;;;;;http://rationalwiki.org/wiki/Argumentum_ad_dictionarium;;Argument du dictionaire
+5.1.3.2.2;Erreur de langue;;;circle;;;;Sophisme définiste;;;;;;;https://en.wikipedia.org/wiki/Definist_fallacy;;Sophisme définiste
+5.2;Erreur de langue;;;circle;;;;Comparaison fallacieuse;;;;;;;;;Comparaison fallacieuse
+5.2.1;Erreur de langue;;;circle;;;;Comparaison fautive;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/97/Faulty-Comparison;;Comparaison fautive
+5.2.1.1;Erreur de langue;;;circle;;;;Comparaison incomplète;;;;;;;https://en.wikipedia.org/wiki/Incomplete_comparison;;Comparaison incomplète
+5.2.1.2;Erreur de langue;;;circle;;;;Classification non exclusive;;;;;;;http://www.ditext.com/fearnside/8.html#b;;Classification non exclusive
+5.2.1.3;Erreur de langue;;;circle;;;;Comparaison inconsistante;;;;;;;https://en.wikipedia.org/wiki/Inconsistent_comparison;;Comparaison inconsistante
+5.2.1.4;Erreur de langue;;;circle;;;;Distinction sans différence;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/80/Distinction-Without-a-Difference;;Distinction sans différence
+5.2.2;Erreur de langue;;;circle;;;;Fausse analogie;;;;;;;https://en.wikipedia.org/wiki/Argument_from_analogy#False_analogy;;Fausse analogie
+5.2.2.1;Erreur de langue;;;circle;;;;Analogie à pétition de principe;;;;;;;http://www.fallacyfiles.org/qbanalog.html;;Analogie à pétition de principe
+5.2.2.2;Erreur de langue;;;circle;;;;Analogies étendue;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/84/Extended-Analogy;;Analogies étendue
+5.2.2.3;Erreur de langue;;;circle;;;;Argument de la similarité fallacieuse;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#similarity;;Argument de la similarité fallacieuse
+5.2.2.4;Erreur de langue;4.3.1.2;;circle;;;;Fausse équivalence;;;;;;;https://en.wikipedia.org/wiki/False_equivalence;;Fausse équivalence
+5.2.3;Erreur de langue;;;circle;;;;Sophisme par association;;;;;;;https://fr.wikipedia.org/wiki/Sophisme_par_association;;Sophisme par association
+5.2.3.1;Erreur de langue;;;circle;;;;Amalgame;;;;;;;https://fr.wikipedia.org/wiki/Amalgame_(communication);;Amalgame
+5.3;Erreur de langue;;;circle;;;;Ambiguité;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/17/Ambiguity-Fallacy;;Ambiguité
+5.3.1;Erreur de langue;;;circle;;;;Ambiguité Syntaxique;;;;;;;;;Ambiguité Syntaxique
+5.3.1.1;Erreur de langue;;;circle;;;;Amphibologie;;;;;;;https://fr.wikipedia.org/wiki/Amphibologie;;Amphibologie
+5.3.1.1.1;Erreur de langue;;;circle;;;;Ponctuation ambigue;;;;;;;;;Ponctuation ambigue
+5.3.1.1.2;Erreur de langue;4.2.3.1;;circle;;;;Sophisme de portée modale;;;;;;;http://www.fallacyfiles.org/modlscop.html;;Sophisme de portée modale
+5.3.1.1.2.1;Erreur de langue;;;circle;;;;Glissement du quantiticateur;;;;;;;825d51a5-1b9d-41e2-8289-c52cc761db74;;Glissement du quantiticateur
+5.3.1.1.3;Erreur de langue;;;circle;;;;Accent;;;;;;;http://rationalwiki.org/wiki/Fallacy_of_accent;;Accent
+5.3.1.1.3.1;Erreur de langue;;;circle;;;;Contraste illicite;;;;;;;http://www.bargain-storage.com/uploads/9/8/7/4/9874916/attacking.faulty.reasoning.a.practical.guide.to.fallacyfree.arguments.pdf#page=141;;Contraste illicite
+5.3.1.2;Erreur de langue;;;circle;;;;Solécisme;;;;;;;https://fr.wikipedia.org/wiki/Sol%C3%A9cisme;;Solécisme
+5.3.1.3;Erreur de langue;;;circle;;;;Barbarisme;;;;;;;https://fr.wikipedia.org/wiki/Barbarisme;;Barbarisme
+5.3.2;Erreur de langue;;;circle;;;;Ambiguité sémantique (Équivoque);;;;;;;https://fr.wikipedia.org/wiki/%C3%89quivoque;;Ambiguité sémantique (Équivoque)
+5.3.2.1;Erreur de langue;;;circle;;;;Expression vague;;;;;;;http://www.fallacyfiles.org/vaguenes.html;;Expression vague
+5.3.2.1.1;Erreur de langue;;;circle;;;;Fausse précision;;;;;;;https://en.wikipedia.org/wiki/False_precision;;Fausse précision
+5.3.2.1.2;Erreur de langue;;;circle;;;;Pente glissante (sémantique);;;;;;;http://www.fallacyfiles.org/slipslop.html#Semantic;;Pente glissante (sémantique)
+5.3.2.1.2.1;Erreur de langue;;;circle;;;;Argument de la barbe;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/58/Argument-of-the-Beard;;Argument de la barbe
+5.3.2.2;Erreur de langue;;;circle;;;;Changement lexical (Polysémie);;;;;;;https://en.wikipedia.org/wiki/Onomasiology#Lexical_change;;Changement lexical (Polysémie)
+5.3.2.2.1;Erreur de langue;;;circle;;;;Mondegreen;;;;;;;https://en.wikipedia.org/wiki/Mondegreen;;Mondegreen
+5.3.2.2.2;Erreur de langue;;;circle;;;;Homonymie;;;;;;;https://fr.wikisource.org/wiki/L%E2%80%99Art_d%E2%80%99avoir_toujours_raison/Stratag%C3%A8me_II;;Homonymie
+5.3.2.2.2.1;Erreur de langue;;;circle;;;;Hétérosémie;;;;;;;https://en.wikipedia.org/wiki/Heterosemy;;Hétérosémie
+5.3.2.3;Erreur de langue;;;circle;;;;Changement sémantique;;;;;;;https://en.wikipedia.org/wiki/Semantic_change;;Changement sémantique
+5.3.2.3.1;Erreur de langue;2.1.3.6.5;;circle;;;;Métonymie;;;;;;;https://fr.wikipedia.org/wiki/M%C3%A9tonymie;;Métonymie
+5.3.2.3.2;Erreur de langue;;;circle;;;;Idola fori;;;;;;;https://en.wikipedia.org/wiki/Idola_fori;;Idola fori
+5.3.2.3.2.1;Erreur de langue;;;circle;;;;Réification (Hypostatization);;;;;;;https://en.wikipedia.org/wiki/Reification_(fallacy);;Réification (Hypostatization)
+5.3.2.3.2.2;Erreur de langue;;;circle;;;;Erreur Usage Mention;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/180/Use-Mention-Error;;Erreur Usage Mention
+5.3.2.3.2.3;Erreur de langue;;;circle;;;;Sophisme référentiel;;;;;;;http://www.cs.oswego.edu/~blue/xhx/books/semiotics/glossaryR/section81/main.html;;Sophisme référentiel
+5.3.2.3.2.4;Erreur de langue;;;circle;;;;Simulacre;;;;;;;https://fr.wikipedia.org/wiki/Simulacre;;Simulacre
+5.3.2.4;Erreur de langue;;;circle;;;;Milieu non distribué;;;;;;;ac57e2ed-8116-49dc-b53f-d59a02e0fac6;;Milieu non distribué
+5.3.2.4.1;Erreur de langue;;;circle;;;;Syllogisme du politicien;;;;;;;1f82a972-e177-4e69-8a71-dbce97ef6749;;Syllogisme du politicien
+5.3.3;Erreur de langue;;;circle;;;;Ambiguité narrative;;;;;;;;;Ambiguité narrative
+5.3.3.1;Erreur de langue;;;circle;;;;Fausse implication;;;;;;;http://skepdic.com/falseimplication.html;;Fausse implication
+5.3.3.1.1;Erreur de langue;;;circle;;;;Argument par l'insinuation (innuedo);;;;;;;https://www.thoughtco.com/what-is-an-innuendo-1691175;;Argument par l'insinuation (innuedo)
+5.3.3.2;Erreur de langue;;;circle;;;;Propagande grise;;;;;;;https://fr.wikipedia.org/wiki/Propagande_grise;;Propagande grise
+5.3.3.3;Erreur de langue;;;circle;;;;Propagande noire;;;;;;;https://fr.wikipedia.org/wiki/Propagande_noire;;Propagande noire
+5.3.3.4;Erreur de langue;;;circle;;;;Polytélie;;;;;;;https://en.wikipedia.org/wiki/Polytely;;Polytélie
+6;Tricherie;;;square;;;;Tricherie;;;;;;;https://fr.wikipedia.org/wiki/Tricherie;;Tricherie
+6.1;Tricherie;;;circle;;;;Arranger les faits;;;;;;;;;Arranger les faits
+6.1.1;Tricherie;;;circle;;;;Mensonge;;;;;;;https://fr.wikipedia.org/wiki/Mensonge;;Mensonge
+6.1.1.1;Tricherie;;;circle;;;;Semi-vérité;;;;;;;https://en.wikipedia.org/wiki/Half-truth;;Semi-vérité
+6.1.1.1.1;Tricherie;;;circle;;;;Minimisation;;;;;;;https://en.wikipedia.org/wiki/Minimisation_(psychology);;Minimisation
+6.1.1.1.2;Tricherie;;;circle;;;;Exagération;;;;;;;https://en.wikipedia.org/wiki/Exaggeration;;Exagération
+6.1.1.1.3;Tricherie;;;circle;;;;Information obsolète;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#outdated;;Information obsolète
+6.1.1.1.4;Tricherie;;;circle;;;;Fraude pieuse;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#pious_fraud;;Fraude pieuse
+6.1.1.1.4.1;Tricherie;;;circle;;;;Mensonge poli;;;;;;;https://en.wikipedia.org/wiki/Lie#Polite_lie_and_butler_lie;;Mensonge poli
+6.1.1.1.4.2;Tricherie;;;circle;;;;Pour la bonne cause;;;;;;;https://en.wikipedia.org/wiki/Noble_lie;;Pour la bonne cause
+6.1.1.1.5;Tricherie;;;circle;;;;Prémisse fausse;;;;;;;https://fr.wikipedia.org/wiki/Pr%C3%A9misse_fausse;;Prémisse fausse
+6.1.1.1.6;Tricherie;;;circle;;;;Faux effet (non causa non proba);;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/95/False-Effect;;Faux effet (non causa non proba)
+6.1.1.1.7;Tricherie;;;circle;;;;Limiter les dégats;;;;;;;https://en.wikipedia.org/wiki/Limited_hangout;;Limiter les dégats
+6.1.1.1.8;Tricherie;;;circle;;;;Faux souvenir;;;;;;;http://skepdic.com/falsememory.html;;Faux souvenir
+6.1.1.1.8.1;Tricherie;;;circle;;;;Confabulation;;;;;;;http://skepdic.com/confab.html;;Confabulation
+6.1.1.2;Tricherie;;;circle;;;;Factoïde;;;;;;;https://en.wikipedia.org/wiki/Factoid;;Factoïde
+6.1.1.2.1;Tricherie;;;circle;;;;Désinformation;;;;;;;https://fr.wikipedia.org/wiki/D%C3%A9sinformation;;Désinformation
+6.1.1.2.1.1;Tricherie;;;circle;;;;Fake news;;;;;;;https://fr.wikipedia.org/wiki/Fake_news;;Fake news
+6.1.1.2.1.2;Tricherie;;;circle;;;;Chambre d'écho;;;;;;;https://fr.wikipedia.org/wiki/Chambre_d%27%C3%A9cho_(m%C3%A9dias);;Chambre d'écho
+6.1.1.2.2;Tricherie;;;circle;;;;Rumeur;;;;;;;https://fr.wikipedia.org/wiki/Rumeur;;Rumeur
+6.1.1.2.3;Tricherie;;;circle;;;;Mythe;;;;;;;https://fr.wikipedia.org/wiki/Mythe#Le_mythe_comme_croyance_erron.C3.A9e;;Mythe
+6.1.1.2.3.1;Tricherie;;;circle;;;;Légende urbaine;;;;;;;https://fr.wikipedia.org/wiki/L%C3%A9gende_urbaine;;Légende urbaine
+6.1.1.2.3.2;Tricherie;;;circle;;;;Creepypasta;;;;;;;https://fr.wikipedia.org/wiki/Creepypasta;;Creepypasta
+6.1.1.2.4;Tricherie;;;circle;;;;Mème;;;;;;;https://fr.wikipedia.org/wiki/M%C3%A8me;;Mème
+6.1.1.3;Tricherie;;;circle;;;;Imposture;;;;;;;https://fr.wikipedia.org/wiki/Imposture;;Imposture
+6.1.1.3.1;Tricherie;;;circle;;;;Canular;;;;;;;https://fr.wikipedia.org/wiki/Canular;;Canular
+6.1.1.3.2;Tricherie;;;circle;;;;Foutaise;;;;;;;https://en.wikipedia.org/wiki/Bullshit;;Foutaise
+6.1.1.3.2.1;Tricherie;;;circle;;;;Bobard;;;;;;;https://en.wikipedia.org/wiki/Lie#Fib;;Bobard
+6.1.1.3.3;Tricherie;;;circle;;;;Faire prendre des vessies pour des lanternes;;;;;;;https://www.projet-voltaire.fr/origines/expression-prendre-des-vessies-pour-des-lanternes/;;Faire prendre des vessies pour des lanternes
+6.1.1.3.3.1;Tricherie;;;circle;;;;Poudre aux yeux;;;;;;;https://en.wikipedia.org/wiki/Puffery;;Poudre aux yeux
+6.1.1.3.4;Tricherie;;;circle;;;;Fabrication;;;;;;;https://en.wikipedia.org/wiki/Fabrication_(science);;Fabrication
+6.1.1.3.5;Tricherie;;;circle;;;;Falsification;;;;;;;https://en.wikipedia.org/wiki/Forgery;;Falsification
+6.1.1.3.6;Tricherie;;;circle;;;;Etouffer l'affaire;;;;;;;https://en.wikipedia.org/wiki/Cover-up;;Etouffer l'affaire
+6.1.1.3.7;Tricherie;;;circle;;;;Parjure;;;;;;;https://fr.wikipedia.org/wiki/Parjure;;Parjure
+6.1.1.3.8;Tricherie;;;circle;;;;Mythomanie;;;;;;;https://fr.wikipedia.org/wiki/Mythomanie;;Mythomanie
+6.1.2;Tricherie;;;circle;;;;Fausse attribution;;;;;;;https://en.wikipedia.org/wiki/False_attribution;;Fausse attribution
+6.1.2.1;Tricherie;;;circle;;;;Sortir du contexte;;;;;;;https://en.wikipedia.org/wiki/Quoting_out_of_context;;Sortir du contexte
+6.1.2.1.1;Tricherie;;;circle;;;;Extraction de citations;;;;;;;http://rationalwiki.org/wiki/Quotemining;;Extraction de citations
+6.1.2.1.2;Tricherie;;;circle;;;;Litéralisme;;;;;;;http://www.cs.oswego.edu/~blue/xhx/books/semiotics/glossaryL/section31/main.html;;Litéralisme
+6.1.2.1.3;Tricherie;;;circle;;;;Pseudohistoire;;;;;;;https://fr.wikipedia.org/wiki/Pseudohistoire;;Pseudohistoire
+6.1.2.2;Tricherie;;;circle;;;;Sourcing circulaire;;;;;;;https://en.wikipedia.org/wiki/Circular_reporting;;Sourcing circulaire
+6.1.2.2.1;Tricherie;;;circle;;;;Citogenèse;;;;;;;https://web.archive.org/web/20111118010341/http://xkcd.com/978;;Citogenèse
+6.1.3;Tricherie;;;circle;;;;Attention sélective;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/159/Selective-Attention;;Attention sélective
+6.1.3.1;Tricherie;;;circle;;;;Raisonnement motivé;;;;;;;http://skepdic.com/motivatedreasoning.html;;Raisonnement motivé
+6.1.3.1.1;Tricherie;;;circle;;;;Double standard;;;;;;;https://fr.wikipedia.org/wiki/Double_standard;;Double standard
+6.1.3.1.1.1;Tricherie;;;circle;;;;Plaidoirie spéciale;;;;;;;https://en.wikipedia.org/wiki/Special_pleading;;Plaidoirie spéciale
+6.1.3.1.1.1.1;Tricherie;;;circle;;;;Demande d'exemption;;;;;;;http://www.ditext.com/fearnside/33.html;;Demande d'exemption
+6.1.3.1.1.2;Tricherie;;;circle;;;;Restriction mentale;;;;;;;https://fr.wikipedia.org/wiki/Restriction_mentale;;Restriction mentale
+6.1.3.1.1.2.1;Tricherie;;;circle;;;;Ne pas en dire trop;;;;;;;https://en.wikipedia.org/wiki/Economical_with_the_truth;;Ne pas en dire trop
+6.1.3.1.1.2.2;Tricherie;;;circle;;;;Mensonge par omission;;;;;;;https://fr.wikipedia.org/wiki/Mensonge#Cas_du_mensonge_par_omission;;Mensonge par omission
+6.1.3.1.1.3;Tricherie;;;circle;;;;Un seul côté;;;;;;;http://www.fallacyfiles.org/onesided.html;;Un seul côté
+6.1.3.1.1.3.1;Tricherie;;;circle;;;;Ignore la contre-preuve;;;;;;;http://www.bargain-storage.com/uploads/9/8/7/4/9874916/attacking.faulty.reasoning.a.practical.guide.to.fallacyfree.arguments.pdf#page=208;;Ignore la contre-preuve
+6.1.3.1.1.3.2;Tricherie;;;circle;;;;Bouc émissaire;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/158/Scapegoating;;Bouc émissaire
+6.1.3.1.1.4;Tricherie;;;circle;;;;Mauvaise foi;;;;;;;https://en.wikipedia.org/wiki/Bad_faith;;Mauvaise foi
+6.1.3.1.2;Tricherie;;;circle;;;;Pensée sélective;;;;;;;http://skepdic.com/selectiv.html;;Pensée sélective
+6.1.3.1.2.1;Tricherie;;;circle;;;;Argument par la lecture sélective;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#selective_reading;;Argument par la lecture sélective
+6.1.3.1.2.2;Tricherie;;;circle;;;;Omission d'une preuve clé;;;;;;;http://www.bargain-storage.com/uploads/9/8/7/4/9874916/attacking.faulty.reasoning.a.practical.guide.to.fallacyfree.arguments.pdf#page=186;;Omission d'une preuve clé
+6.1.3.1.2.3;Tricherie;;;circle;;;;Biais de confirmation;;;;;;;http://skepdic.com/confirmbias.html;;Biais de confirmation
+6.1.3.1.2.4;Tricherie;;;circle;;;;Scotomisation;;;;;;;https://fr.wikipedia.org/wiki/Scotomisation;;Scotomisation
+6.1.3.1.3;Tricherie;;;circle;;;;Biais de publication;;;;;;;https://fr.wikipedia.org/wiki/Biais_de_publication;;Biais de publication
+6.1.3.1.3.1;Tricherie;;;circle;;;;Biais du chapeau blanc;;;;;;;https://en.wikipedia.org/wiki/White_hat_bias;;Biais du chapeau blanc
+6.1.3.1.3.2;Tricherie;;;circle;;;;Effet tiroir;;;;;;;https://fr.wikipedia.org/wiki/Biais_de_publication#Effet_tiroir;;Effet tiroir
+6.1.3.2;Tricherie;;;circle;;;;Effet de l'expérimentateur;;;;;;;http://skepdic.com/experimentereffect.html;;Effet de l'expérimentateur
+6.1.3.3;Tricherie;;;circle;;;;Cécité d'inattention;;;;;;;http://skepdic.com/inattentionalblindness.html;;Cécité d'inattention
+6.2;Tricherie;;;circle;;;;Changer l'objectif;;;;;;;https://en.wikipedia.org/wiki/Moving_the_goalposts;;Changer l'objectif
+6.2.1;Tricherie;;;circle;;;;Relever la barre;;;;;;;https://en.wiktionary.org/wiki/raise_the_bar;;Relever la barre
+6.2.1.1;Tricherie;;;circle;;;;Sophismes d'objection;;;;;;;http://www.ditext.com/fearnside/37.html;;Sophismes d'objection
+6.2.1.1.1;Tricherie;;;circle;;;;Solution parfaite;;;;;;;https://en.wikipedia.org/wiki/Nirvana_fallacy;;Solution parfaite
+6.2.1.1.1.1;Tricherie;;;circle;;;;Holisme logique;;;;;;;https://fr.wikipedia.org/wiki/Holisme_logique;;Holisme logique
+6.2.1.1.2;Tricherie;;;circle;;;;La science s'est déjà trompée;;;;;;;http://rationalwiki.org/wiki/Science_was_wrong_before;;La science s'est déjà trompée
+6.2.1.1.3;Tricherie;;;circle;;;;Le média s'est déjà trompé;;;;;;;http://rationalwiki.org/wiki/Media_was_wrong_before;;Le média s'est déjà trompé
+6.2.1.1.4;Tricherie;1.1.1.1.3.1;;circle;;;;La pendule cassée inverse;;;;;;;http://rationalwiki.org/wiki/Inverse_stopped_clock;;La pendule cassée inverse
+6.2.1.2;Tricherie;;;circle;;;;Confondre une explication et une excuse;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/71/Confusing-an-Explanation-with-an-Excuse;;Confondre une explication et une excuse
+6.2.1.3;Tricherie;;;circle;;;;Une seule preuve;;;;;;;http://rationalwiki.org/wiki/One_single_proof;;Une seule preuve
+6.2.1.4;Tricherie;;;circle;;;;Renverser la charge de la preuve;;;;;;;https://fr.wikipedia.org/wiki/Renverser_la_charge_de_la_preuve_(philosophie);;Renverser la charge de la preuve
+6.2.1.4.1;Tricherie;;;circle;;;;Prouver la non-existence;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/145/Proving-Non-Existence;;Prouver la non-existence
+6.2.2;Tricherie;;;circle;;;;Le beurre et l'argent du beurre;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/101/Having-Your-Cake;;Le beurre et l'argent du beurre
+6.2.2.1;Tricherie;;;circle;;;;Ne pas se mouiller;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#state;;Ne pas se mouiller
+6.2.2.1.1;Tricherie;;;circle;;;;Langue de bois;;;;;;;https://fr.wikipedia.org/wiki/Langue_de_bois;;Langue de bois
+6.2.2.1.2;Tricherie;;;circle;;;;Assertion ambigue;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#ambig_assertion;;Assertion ambigue
+6.2.2.2;Tricherie;;;circle;;;;Donner à boire et à manger;;;;;;;https://fr.wiktionary.org/wiki/il_y_a_%C3%A0_boire_et_%C3%A0_manger;;Donner à boire et à manger
+6.2.2.2.1;Tricherie;;;circle;;;;Si par Whisky;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/107/If-By-Whiskey;;Si par Whisky
+6.2.2.3;Tricherie;;;circle;;;;Se couvrir;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/102/Hedging;;Se couvrir
+6.2.2.3.1;Tricherie;;;circle;;;;Argument post dispute;;;;;;;https://en.wikipedia.org/wiki/Post_disputation_argument;;Argument post dispute
+6.2.2.4;Tricherie;;;circle;;;;Porte de sortie;;;;;;;http://rationalwiki.org/wiki/Escape_hatch;;Porte de sortie
+6.2.2.4.1;Tricherie;;;circle;;;;Où est le mal?;;;;;;;http://rationalwiki.org/wiki/What%27s_the_harm;;Où est le mal?
+6.2.2.4.2;Tricherie;;;circle;;;;Départ optionel;;;;;;;http://skepdic.com/opstart.html;;Départ optionel
+6.2.3;Tricherie;;;circle;;;;Baisser la barre;;;;;;;https://www.usingenglish.com/reference/idioms/lower+the+bar.html;;Baisser la barre
+6.2.3.1;Tricherie;;;circle;;;;Argumentum a silentio;;;;;;;https://fr.wikipedia.org/wiki/Argumentum_a_silentio;;Argumentum a silentio
+6.2.3.2;Tricherie;;;circle;;;;Trivialisme;;;;;;;https://en.wikipedia.org/wiki/Trivialism;;Trivialisme
+6.2.3.2.1;Tricherie;;;circle;;;;Se faire l'avocat du diable;;;;;;;https://fr.wikipedia.org/wiki/Avocat_du_diable;;Se faire l'avocat du diable
+6.2.3.3;Tricherie;;;circle;;;;Argument de l'effort notable;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/137/Notable-Effort;;Argument de l'effort notable
+6.2.3.3.1;Tricherie;;;circle;;;;Pour la forme;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/176/Tokenism;;Pour la forme
+6.2.3.4;Tricherie;;;circle;;;;Cout irrécupérable;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/173/Sunk-Cost-Fallacy;;Cout irrécupérable
+6.3;Tricherie;;;circle;;;;Règles biaisées (Idola mentis);;;;;;;https://en.wikipedia.org/wiki/Baconian_method#Idols_of_the_mind_.28idola_mentis.29;;Règles biaisées (Idola mentis)
+6.3.1;Tricherie;;;circle;;;;Biais naturels (Idola tribus);;;;;;;https://en.wikipedia.org/wiki/Idola_tribus;;Biais naturels (Idola tribus)
+6.3.1.1;Tricherie;1.3.3.3.1;;circle;;;;Sophisme animiste;;;;;;;https://en.wikipedia.org/wiki/Animistic_fallacy;;Sophisme animiste
+6.3.1.2;Tricherie;;;circle;;;;Biais de négativité;;;;;;;http://skepdic.com/negativitybias.html;;Biais de négativité
+6.3.1.3;Tricherie;;;circle;;;;Projection psychologique;;;;;;;https://en.wikipedia.org/wiki/Psychological_projection;;Projection psychologique
+6.3.1.3.1;Tricherie;;;circle;;;;Renvoyer la balle;;;;;;;https://en.wikipedia.org/wiki/Buck_passing;;Renvoyer la balle
+6.3.1.3.2;Tricherie;;;circle;;;;Blâmer la victime;;;;;;;https://fr.wikipedia.org/wiki/Bl%C3%A2mer_la_victime;;Blâmer la victime
+6.3.1.3.3;Tricherie;;;circle;;;;Auto-flagelation;;;;;;;https://en.wikipedia.org/wiki/Self-blame_(psychology);;Auto-flagelation
+6.3.1.4;Tricherie;;;circle;;;;Projection mentale;;;;;;;https://en.wikipedia.org/wiki/Mind_projection_fallacy;;Projection mentale
+6.3.1.5;Tricherie;;;circle;;;;Dispositionalisme;;;;;;;https://en.wikipedia.org/wiki/Dispositional_attribution;;Dispositionalisme
+6.3.1.5.1;Tricherie;;;circle;;;;Erreur fondamentale d'attribution;;;;;;;https://fr.wikipedia.org/wiki/Erreur_fondamentale_d%27attribution;;Erreur fondamentale d'attribution
+6.3.2;Tricherie;;;circle;;;;Biais culturels (Idola specus);;;;;;;https://en.wikipedia.org/wiki/Idola_specus;;Biais culturels (Idola specus)
+6.3.2.1;Tricherie;;;circle;;;;Biais de proportionalité;;;;;;;http://skepdic.com/proportionalitybias.html;;Biais de proportionalité
+6.3.2.1.1;Tricherie;;;circle;;;;Pari de Galilée;;;;;;;http://rationalwiki.org/wiki/Galileo_gambit;;Pari de Galilée
+6.3.2.1.2;Tricherie;;;circle;;;;Conspirationisme;;;;;;;https://fr.wikipedia.org/wiki/Th%C3%A9orie_du_complot;;Conspirationisme
+6.3.2.1.2.1;Tricherie;;;circle;;;;Sophisme furtif;;;;;;;https://en.wikipedia.org/wiki/Furtive_fallacy;;Sophisme furtif
+6.3.2.1.3;Tricherie;3.2.1.3;;circle;;;;Sophisme de regression;;;;;;;http://www.fallacyfiles.org/regressf.html;;Sophisme de regression
+6.3.2.2;Tricherie;;;circle;;;;Biais de Subjectivité;;;;;;;https://en.wikipedia.org/wiki/Subjectivity;;Biais de Subjectivité
+6.3.2.2.1;Tricherie;;;circle;;;;Erreur d'attribution finale;;;;;;;https://en.wikipedia.org/wiki/Ultimate_attribution_error;;Erreur d'attribution finale
+6.3.2.2.1.1;Tricherie;;;circle;;;;Sophisme de Préjudice;;;;;;;http://rationalwiki.org/wiki/Fallacy_of_opposition#Fallacy_of_prejudice;;Sophisme de Préjudice
+6.3.2.2.1.1.1;Tricherie;;;circle;;;;Racisme;;;;;;;https://fr.wikipedia.org/wiki/Racisme;;Racisme
+6.3.2.2.1.1.2;Tricherie;;;circle;;;;Sexisme;;;;;;;https://fr.wikipedia.org/wiki/Sexisme;;Sexisme
+6.3.2.2.1.1.3;Tricherie;;;circle;;;;Nationalisme;;;;;;;https://fr.wikipedia.org/wiki/Nationalisme;;Nationalisme
+6.3.2.2.1.1.4;Tricherie;;;circle;;;;Bigoterie religieuse;;;;;;;https://en.wikipedia.org/wiki/Religious_discrimination;;Bigoterie religieuse
+6.3.2.2.1.1.5;Tricherie;;;circle;;;;Classisme;;;;;;;https://fr.wikipedia.org/wiki/Classisme;;Classisme
+6.3.3;Tricherie;;;circle;;;;Biais dogmatiques (Idola theatri);;;;;;;https://en.wikipedia.org/wiki/Idola_theatri;;Biais dogmatiques (Idola theatri)
+6.3.3.1;Tricherie;;;circle;;;;Contraste injustifié;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/179/Unwarranted-Contrast;;Contraste injustifié
+6.3.3.2;Tricherie;;;circle;;;;Argument du package;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/139/Package-Deal-Fallacy;;Argument du package
+6.3.3.3;Tricherie;;;circle;;;;Sophisme de la virtualité;;;;;;;https://en.wikipedia.org/wiki/Virtuality_fallacy;;Sophisme de la virtualité
+6.3.3.4;Tricherie;;;circle;;;;Argument par la physique quantique;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/147/Quantum-Physics-Fallacy;;Argument par la physique quantique
+6.3.3.5;Tricherie;;;circle;;;;Pseudo-philosophie;;;;;;;https://fr.wikipedia.org/wiki/Pseudo-philosophie;;Pseudo-philosophie
+6.3.3.6;Tricherie;;;circle;;;;Logocentrisme;;;;;;;http://www.cs.oswego.edu/~blue/xhx/books/semiotics/glossaryL/section41/main.html;;Logocentrisme
+6.3.3.7;Tricherie;;;circle;;;;Appel au spirituel;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/164/Spiritual-Fallacy;;Appel au spirituel
+6.3.3.8;Tricherie;;;circle;;;;Dogme;;;;;;;https://fr.wikipedia.org/wiki/Dogme;;Dogme
+6.3.4;Tricherie;5.3.2.3.2;;circle;;;;Biais linguisitques (Idola fori);;;;;;;https://en.wikipedia.org/wiki/Idola_fori;;Biais linguisitques (Idola fori)
+7;Blocage;;;square;;;;Blocage;;;;;;;http://www.ditext.com/fearnside/39.html;;Blocage
+7.1;Blocage;;;circle;;;;Refus du débat;;;;;;;;;Refus du débat
+7.1.1;Blocage;5.3.2.3.2.1;;circle;;;;Relativisme;;;;;;;http://www.ditext.com/fearnside/9.html#b;;Relativisme
+7.1.1.1;Blocage;;;circle;;;;Sophisme subjectiviste;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/171/Subjectivist-Fallacy;;Sophisme subjectiviste
+7.1.1.1.1;Blocage;;;circle;;;;Truthiness;;;;;;;https://fr.wikipedia.org/wiki/Truthiness;;Truthiness
+7.1.1.2;Blocage;;;circle;;;;Plus faux que faux;;;;;;;http://rationalwiki.org/wiki/Wronger_than_wrong;;Plus faux que faux
+7.1.2;Blocage;;;circle;;;;Sophismes d'Explication;;;;;;;http://www.onegoodmove.org/fallacy/explan_index.htm;;Sophismes d'Explication
+7.1.2.1;Blocage;;;circle;;;;Postulat infalsifiable;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/178/Unfalsifiability;;Postulat infalsifiable
+7.1.2.1.1;Blocage;;;circle;;;;Argument autocollant;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/160/Self-Sealing-Argument;;Argument autocollant
+7.1.2.1.2;Blocage;;;circle;;;;Intestabilité;;;;;;;http://www.onegoodmove.org/fallacy/untest.htm;;Intestabilité
+7.1.2.2;Blocage;;;circle;;;;Profondeur limitée;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/118/Limited-Depth;;Profondeur limitée
+7.1.2.2.1;Blocage;;;circle;;;;Réfutation lapidaire;;;;;;;https://en.wikipedia.org/wiki/Argumentum_ad_lapidem;;Réfutation lapidaire
+7.1.2.2.1.1;Blocage;;;circle;;;;Balayer d'un rever de main;;;;;;;http://rationalwiki.org/wiki/Handwave;;Balayer d'un rever de main
+7.1.2.3;Blocage;;;circle;;;;Portée limitée;;;;;;;http://www.onegoodmove.org/fallacy/liscope.htm;;Portée limitée
+7.1.2.4;Blocage;;;circle;;;;Mauvais Support;;;;;;;http://www.onegoodmove.org/fallacy/nonsup.htm;;Mauvais Support
+7.1.2.5;Blocage;;;circle;;;;Support subverti;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/172/Subverted-Support;;Support subverti
+7.1.3;Blocage;;;circle;;;;Preuve par assertion;;;;;;;https://en.wikipedia.org/wiki/Proof_by_assertion;;Preuve par assertion
+7.1.3.1;Blocage;;;circle;;;;Défaut d'élucidation (Obscurum per Obscurius);;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/85/Failure_to_Elucidate;;Défaut d'élucidation (Obscurum per Obscurius)
+7.1.3.2;Blocage;;;circle;;;;Parler vite;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/46/Argument-by-Fast-Talking;;Parler vite
+7.1.3.3;Blocage;;;circle;;;;Argumentum ad nauseam;;;;;;;https://fr.wikipedia.org/wiki/Argumentum_ad_nauseam;;Argumentum ad nauseam
+7.1.3.3.1;Blocage;;;circle;;;;Lavage de cerveau;;;;;;;https://fr.wikipedia.org/wiki/Lavage_de_cerveau;;Lavage de cerveau
+7.1.3.3.2;Blocage;;;circle;;;;Delenda Carthago;;;;;;;https://fr.wikipedia.org/wiki/Delenda_Carthago;;Delenda Carthago
+7.1.3.4;Blocage;2.1.1.3.2;;circle;;;;Langage idiosynchratique;;;;;;;http://www.ditext.com/fearnside/51.html;;Langage idiosynchratique
+7.1.3.5;Blocage;;;circle;;;;Nier la contre-preuve;;;;;;;http://www.bargain-storage.com/uploads/9/8/7/4/9874916/attacking.faulty.reasoning.a.practical.guide.to.fallacyfree.arguments.pdf#page=207;;Nier la contre-preuve
+7.1.3.5.1;Blocage;;;circle;;;;Argument par l'acharnement;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#dogged;;Argument par l'acharnement
+7.1.3.5.1.1;Blocage;;;circle;;;;Négationisme;;;;;;;https://en.wikipedia.org/wiki/Denialism;;Négationisme
+7.1.3.6;Blocage;;;circle;;;;Clamer la victoire malgré la défaite;;;;;;;https://fr.wikisource.org/wiki/L%E2%80%99Art_d%E2%80%99avoir_toujours_raison/Stratag%C3%A8me_XIV;;Clamer la victoire malgré la défaite
+7.1.3.7;Blocage;;;circle;;;;Plus c'est gros, plus ça passe;;;;;;;https://en.wikipedia.org/wiki/Big_lie;;Plus c'est gros, plus ça passe
+7.2;Blocage;;;circle;;;;Sabotage;;;;;;;https://en.wikipedia.org/wiki/Sabotage;;Sabotage
+7.2.1;Blocage;;;circle;;;;Fausse piste;;;;;;;https://en.wikipedia.org/wiki/Red_herring;;Fausse piste
+7.2.1.1;Blocage;;;circle;;;;Changer le sujet;;;;;;;http://www.don-lindsay-archive.org/skeptic/arguments.html#digression;;Changer le sujet
+7.2.1.1.1;Blocage;;;circle;;;;Digression;;;;;;;https://fr.wikipedia.org/wiki/Digression;;Digression
+7.2.1.1.2;Blocage;;;circle;;;;Interrompre et détourner le débat;;;;;;;https://fr.wikisource.org/wiki/L%E2%80%99Art_d%E2%80%99avoir_toujours_raison/Stratag%C3%A8me_XVIII;;Interrompre et détourner le débat
+7.2.1.2;Blocage;;;circle;;;;Eviter la question;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/61/Avoiding-the-Issue;;Eviter la question
+7.2.1.2.1;Blocage;;;circle;;;;Conclusion non pertinente (Ignoratio elenchi);;;;;;;https://fr.wikipedia.org/wiki/Ignoratio_elenchi;;Conclusion non pertinente (Ignoratio elenchi)
+7.2.1.3;Blocage;;;circle;;;;Fausse objection;;;;;;;https://fr.wikipedia.org/wiki/Fausse_objection;;Fausse objection
+7.2.1.3.1;Blocage;;;circle;;;;Feindre l'incompréhension;;;;;;;https://fr.wikisource.org/wiki/L%E2%80%99Art_d%E2%80%99avoir_toujours_raison/Stratag%C3%A8me_XXXI;;Feindre l'incompréhension
+7.2.1.3.2;Blocage;;;circle;;;;Mettre en cause un mauvaise traduction;;;;;;;;;Mettre en cause un mauvaise traduction
+7.2.1.4;Blocage;;;circle;;;;Equivalence morale;;;;;;;http://rationalwiki.org/wiki/Moral_equivalence;;Equivalence morale
+7.2.1.4.1;Blocage;;;circle;;;;Privation relative (moins pire que);;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/155/Relative-Privation;;Privation relative (moins pire que)
+7.2.1.4.1.1;Blocage;;;circle;;;;La mauvaise alternative;;;;;;;http://www.ditext.com/fearnside/36.html;;La mauvaise alternative
+7.2.1.4.2;Blocage;;;circle;;;;Le mal par le mal;;;;;;;http://www.ditext.com/fearnside/35.html;;Le mal par le mal
+7.2.1.4.3;Blocage;1.2.2.2;;circle;;;;Raison de la majorité (ad populum);;;;;;;742a12de-b49a-434a-8634-1bb2ecf2f5c5;;Raison de la majorité (ad populum)
+7.2.1.5;Blocage;;;circle;;;;Question sans sens;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/124/Meaningless-Question;;Question sans sens
+7.2.1.6;Blocage;;;circle;;;;Défense Chewbacca;;;;;;;https://fr.wikipedia.org/wiki/D%C3%A9fense_Chewbacca;;Défense Chewbacca
+7.2.2;Blocage;;;circle;;;;Couper les cheveux en quatre;;;;;;;https://fr.wikisource.org/wiki/L%E2%80%99Art_d%E2%80%99avoir_toujours_raison/Stratag%C3%A8me_XVII;;Couper les cheveux en quatre
+7.2.2.1;Blocage;;;circle;;;;Méthode hypercritique;;;;;;;https://fr.wikipedia.org/wiki/M%C3%A9thode_hypercritique;;Méthode hypercritique
+7.2.2.2;Blocage;6.2.1.1.1;;circle;;;;Solution parfaite;;;;;;;https://en.wikipedia.org/wiki/Nirvana_fallacy;;Solution parfaite
+7.2.2.3;Blocage;;;circle;;;;Objection triviale;;;;;;;http://www.bargain-storage.com/uploads/9/8/7/4/9874916/attacking.faulty.reasoning.a.practical.guide.to.fallacyfree.arguments.pdf#page=219;;Objection triviale
+7.2.3;Blocage;;;circle;;;;Empoisonner le puits;;;;;;;https://fr.wikipedia.org/wiki/Empoisonner_le_puits;;Empoisonner le puits
+7.2.3.1;Blocage;;;circle;;;;Poser juste des questions;;;;;;;http://rationalwiki.org/wiki/JAQing_off;;Poser juste des questions
+7.2.3.2;Blocage;;;circle;;;;Convaincre le public et non l'adversaire;;;;;;;https://fr.wikisource.org/wiki/L%E2%80%99Art_d%E2%80%99avoir_toujours_raison/Stratag%C3%A8me_XXVIII;;Convaincre le public et non l'adversaire
+7.2.3.3;Blocage;;;circle;;;;Tactique du complice;;;;;;;http://rationalwiki.org/wiki/Shill_gambit;;Tactique du complice
+7.2.3.4;Blocage;;;circle;;;;Démonisation;;;;;;;http://rationalwiki.org/wiki/Demonization;;Démonisation
+7.3;Blocage;;;circle;;;;Ad hominem;;;;;;;https://fr.wikipedia.org/wiki/Argumentum_ad_hominem;;Ad hominem
+7.3.1;Blocage;;;circle;;;; Engagement inconsistant (Ex concessis);;;;;;;http://www.dougwalton.ca/papers%20in%20pdf/04historical.pdf;; Engagement inconsistant (Ex concessis)
+7.3.1.1;Blocage;;;circle;;;;Tu Quoque;;;;;;;https://fr.wikipedia.org/wiki/Argumentum_ad_hominem#Tu_quoque;;Tu Quoque
+7.3.1.1.1;Blocage;;;circle;;;;Whataboutisme;;;;;;;http://rationalwiki.org/wiki/Whataboutism;;Whataboutisme
+7.3.1.2;Blocage;;;circle;;;;Homme de paille;;;;;;;https://fr.wikipedia.org/wiki/%C3%89pouvantail_(rh%C3%A9torique);;Homme de paille
+7.3.1.2.1;Blocage;;;circle;;;;Extension;;;;;;;https://fr.wikisource.org/wiki/L%E2%80%99Art_d%E2%80%99avoir_toujours_raison/Stratag%C3%A8me_I;;Extension
+7.3.1.2.2;Blocage;;;circle;;;;Tirer de fausses conclusions;;;;;;;https://fr.wikisource.org/wiki/L%E2%80%99Art_d%E2%80%99avoir_toujours_raison/Stratag%C3%A8me_XXIV;;Tirer de fausses conclusions
+7.3.1.3;Blocage;;;circle;;;;Faux arguments;;;;;;;https://fr.wikisource.org/wiki/L%E2%80%99Art_d%E2%80%99avoir_toujours_raison/Stratag%C3%A8me_V;;Faux arguments
+7.3.1.3.1;Blocage;;;circle;;;;Utiliser des arguments absurdes;;;;;;;https://fr.wikisource.org/wiki/L%E2%80%99Art_d%E2%80%99avoir_toujours_raison/Stratag%C3%A8me_XV;;Utiliser des arguments absurdes
+7.3.1.3.2;Blocage;;;circle;;;;Répondre à de mauvais arguments par de mauvais arguments ;;;;;;;https://fr.wikisource.org/wiki/L%E2%80%99Art_d%E2%80%99avoir_toujours_raison/Stratag%C3%A8me_XXI;;Répondre à de mauvais arguments par de mauvais arguments 
+7.3.1.3.3;Blocage;;;circle;;;;Accuser d'un petitio principii;;;;;;;https://fr.wikisource.org/wiki/L%E2%80%99Art_d%E2%80%99avoir_toujours_raison/Stratag%C3%A8me_XXII;;Accuser d'un petitio principii
+7.3.2;Blocage;;;circle;;;;Sophisme génétique;;;;;;;https://fr.wikipedia.org/wiki/Sophisme_g%C3%A9n%C3%A9tique;;Sophisme génétique
+7.3.2.1;Blocage;5.2.3;;circle;;;;Culpabilité par association;;;;;;;https://en.wikipedia.org/wiki/Association_fallacy;;Culpabilité par association
+7.3.2.1.1;Blocage;;;circle;;;;Reductio ad Hitlerum;;;;;;;https://fr.wikipedia.org/wiki/Reductio_ad_Hitlerum;;Reductio ad Hitlerum
+7.3.2.2;Blocage;;;circle;;;;Attaque personnelle de circonstance;;;;;;;https://fr.wikipedia.org/wiki/Argumentum_ad_hominem#Circumstanti.C3.A6;;Attaque personnelle de circonstance
+7.3.2.2.1;Blocage;1.3.2.3;;circle;;;;Appel au motif;;;;;;;https://en.wikipedia.org/wiki/Appeal_to_motive;;Appel au motif
+7.3.2.3;Blocage;;;circle;;;;Appel à l'accomplissement;;;;;;;#f51c59a1-39fa-4ad9-b878-441f13dddf29;;Appel à l'accomplissement
+7.3.2.3.1;Blocage;;;circle;;;;Compliment empoisonné;;;;;;;http://rationalwiki.org/wiki/Damning_with_faint_praise;;Compliment empoisonné
+7.3.2.3.2;Blocage;;;circle;;;;Ad Fidentia;;;;;;;https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies/7/Ad-Fidentia;;Ad Fidentia
+7.3.2.4;Blocage;;;circle;;;;Sophisme d'opposition;;;;;;;http://rationalwiki.org/wiki/Fallacy_of_opposition;;Sophisme d'opposition
+7.3.2.4.1;Blocage;;;circle;;;;Bulverisme;;;;;;;https://en.wikipedia.org/wiki/Bulverism;;Bulverisme
+7.3.2.4.2;Blocage;;;circle;;;;Jonanisme;;;;;;;http://rationalwiki.org/wiki/Jonanism;;Jonanisme
+7.3.2.5;Blocage;;;circle;;;;Appel à la bande;;;;;;;http://www.nizkor.org/features/fallacies/bandwagon.html;;Appel à la bande
+7.3.2.5.1;Blocage;;;circle;;;;Ergo decedo;;;;;;;https://en.wikipedia.org/wiki/Ergo_decedo;;Ergo decedo
+7.3.3;Blocage;;;circle;;;;Attaque personnelle (ad Personam);;;;;;;https://fr.wikipedia.org/wiki/Argumentum_ad_personam;;Attaque personnelle (ad Personam)
+7.3.3.1;Blocage;;;circle;;;;Appel à la retenue;;;;;;;https://en.wikipedia.org/wiki/Tone_policing;;Appel à la retenue
+7.3.3.2;Blocage;;;circle;;;;Taquinerie;;;;;;;https://en.wikipedia.org/wiki/Taunting;;Taquinerie
+7.3.3.3;Blocage;;;circle;;;;Raillerie;;;;;;;https://en.wiktionary.org/wiki/jibe#Etymology_3;;Raillerie
+7.3.3.4;Blocage;;;circle;;;;Diffamation;;;;;;;https://en.wikipedia.org/wiki/Defamation;;Diffamation
+7.3.3.5;Blocage;;;circle;;;;Insulte;;;;;;;https://en.wikipedia.org/wiki/Insult;;Insulte
+7.3.3.5.1;Blocage;;;circle;;;;Lancer la chaussure;;;;;;;https://en.wikipedia.org/wiki/List_of_shoe-throwing_incidents;;Lancer la chaussure

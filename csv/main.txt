@@ -1,0 +1,13 @@
+!;
+
+! Argumentum / fallacies
+
+
+@ Argument:key;family;rel;carte;shape;image;latin;image;text_fr;text_en;desc_fr;desc_en;example_fr;example_en;proverbe;link_fr;link_en; label
+& ./nodes.csv
+
+_ Tree
+& edges-tree.txt
+
+_ Trans
+& edges-trans.txt
