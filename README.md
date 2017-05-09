@@ -55,8 +55,8 @@ L'idée c'est qu'on à 4 type de carte différents
 
 Convertion des fichiers csv vers un graph padagraph.
 
-$ python ../../../botapad/botapad.py --host http://localhost:5000 --key `cat ../../../key.local` --separator ';' -v --delete  fallacies ./main.txt
+    $ python ../../../botapad/botapad.py --host http://localhost:5000 --key `cat ../../../key.local` --separator ';' -v --delete  fallacies ./main.txt
 
-
+current @ padagraph : http://padagraph.io/graph/fallacies
 
 TODO

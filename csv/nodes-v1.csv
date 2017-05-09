@@ -1,6 +1,6 @@
-key,carte,shape,image,text_fr,text_en,desc_fr,desc_en,example_fr,example_en,latin,proverbe,link_fr,link_en
+!key,carte,shape,image,text_fr,text_en,desc_fr,desc_en,example_fr,example_en,latin,proverbe,link_fr,link_en
 
-root,,diamond,,Arguments fallacieux,,,,,,,,https://fr.wikipedia.org/wiki/Sophisme,
+*root,,diamond,,Arguments fallacieux,,,,,,,,https://fr.wikipedia.org/wiki/Sophisme,
 1,,square,,Insuffisance,,,,,,,,,
 1.1,,circle,,Argument désinvolte,,,,,,,,,
 1.1.1,,circle,,Discours baclé,,,,,,,,,
