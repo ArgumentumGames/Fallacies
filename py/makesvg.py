@@ -100,8 +100,8 @@ def html_table_a_img(allcartes):
         for i in range(0, len(l), n):
             yield l[i:i + n]
 
-    from itertools import izip
     _url = lambda u : "http://localhost:8000/output/%s.svg"% u
+
     for i in range(1,8):
         cartes = [ c for c in allcartes if c['path'][0] == "%s" % i ]
         paths = sorted([ c['path'] for c in cartes])
