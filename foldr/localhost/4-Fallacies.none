@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html>
+<title>Directory listing for /</title>
+<body>
+<h2>Directory listing for /</h2>
+<hr>
+<ul>
+<li><a href=".git/">.git/</a>
+<li><a href="2mm.py">2mm.py</a>
+<li><a href="csv/">csv/</a>
+<li><a href="fallacies.mm">fallacies.mm</a>
+<li><a href="fallacies.mm.sav">fallacies.mm.sav</a>
+<li><a href="foldr/">foldr/</a>
+<li><a href="freemind/">freemind/</a>
+<li><a href="freemind-bin-max-1.0.1.zip">freemind-bin-max-1.0.1.zip</a>
+<li><a href="imgs.txt">imgs.txt</a>
+<li><a href="LICENSE">LICENSE</a>
+<li><a href="Makefile">Makefile</a>
+<li><a href="output/">output/</a>
+<li><a href="py/">py/</a>
+<li><a href="README.md">README.md</a>
+<li><a href="svg/">svg/</a>
+<li><a href="temps.txt">temps.txt</a>
+<li><a href="venv/">venv/</a>
+</ul>
+<hr>
+</body>
+</html>
