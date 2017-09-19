@@ -29,17 +29,20 @@ def set_texts(carte, xml):
     # texts
     for key in KEYS :
         if key in carte:
-            print " -" , key, carte[key]
+            #print " -" , key, carte[key]
             xml = re.sub("!%s"% key, carte[key] , xml)
     return xml
     
 def set_illustration(carte, soup, svg):
     # ILLUSTRATION
     svgpath = soup.find(attrs={'id':'illustration'})
-    style = svgpath.attrs['style'].lower()
-    style = re.sub("(?<=fill:)#[a-f0-9]+",  "#000000", style )
-    svgpath.attrs['style'] = style
-    svgpath.attrs['d'] = svg
+    if 'style' in svgpath.attrs :
+        style = svgpath.attrs['style'].lower()
+        style = re.sub("(?<=fill:)#[a-f0-9]+",  "#000000", style )
+        svgpath.attrs['style'] = style
+
+    svgpath.append(svg)
+    
 
 def set_color(soup, color):
     # corners color
@@ -51,7 +54,7 @@ def set_color(soup, color):
         p.attrs['style'] = style
 
     # rect color
-    svgrect = soup.find_all('rect')
+    svgrect = soup.find_all('rect')[1:]
     for p in svgrect:
         if 'style' in p.attrs:
             style = p.attrs['style'].lower()
@@ -60,11 +63,17 @@ def set_color(soup, color):
             style = re.sub("(?<=fill:)#[a-f0-9]+",  color, style )
         style = re.sub("(?<=stroke:)#[A-Fa-f0-9]+", color, style )
         p.attrs['style'] = style
+    # oval 
+    oval = soup.find(attrs={'id':'oval'})
+    if oval and 'style' in oval.attrs:
+        style = oval.attrs['style'].lower()
+        style = re.sub("(?<=fill:)#[a-f0-9]+",  color, style )
+        style = re.sub("(?<=stroke:)#[A-Fa-f0-9]+", color, style )
+        oval.attrs['style'] = style
 
 def gener_svg(patron, cartes, illustrations, output):
 
     for carte in cartes:
-        print carte['path'],  carte['text']
         xml = "%s" % patron
         
         xml = set_texts(carte, xml)
@@ -72,41 +81,75 @@ def gener_svg(patron, cartes, illustrations, output):
         soup =  BeautifulSoup(xml, 'xml')
         
         set_color(soup, carte['color'])
-        
-        #set_illustration(soup, illustrations[carte['path']])
 
+        print carte['path'],  carte['text'], carte['path'] in illustrations
+        if carte['path'] in illustrations:
+            set_illustration(carte, soup, illustrations[carte['path']])
+        else :
+            print "missing %s illustration" % carte['path']
         
         outpath = "%s/%s.svg" % (output, carte['path'])
         with open( outpath , 'wb') as out:
             out.write("%s" % soup)
-        
+
+
+
+def html_table_a_img(allcartes):
+    def ichunks(l, n):
+        """Yield successive n-sized chunks from l."""
+        for i in range(0, len(l), n):
+            yield l[i:i + n]
+
+    from itertools import izip
+    _url = lambda u : "http://localhost:8000/output/%s.svg"% u
+    for i in range(1,8):
+        cartes = [ c for c in allcartes if c['path'][0] == "%s" % i ]
+        paths = sorted([ c['path'] for c in cartes])
+        imgs = [" <a href='%s' target='iframe'> <img src='%s' title='%s'/> </a>" % (_url(c),_url(c),c) for c in paths]
+
+        print "## %s" % i
+        print "| | | | | \n| --- | --- | --- | --- |"
+        chunks = [ " %s %s " % (e[0], e[1]) for e in zip(paths, imgs) ]
+        for e in ichunks(chunks, 4):
+            print "| %s | " %  "|".join( e )
+            
 def main():
+
     output = "output"
-    
     path_argumentum = "csv/argumentum.csv"
-    path_illustrations = [ "svg/illustrations %s" % e for e in 
-        ['influences', 'insuffisance', 'langue', 'math', 'obstruction', 'paralogisme', 'tricherie'] ]
-    
+    path_illustrations = [ "svg/illustrations %s.svg" % e for e in 
+        ['insuffisance', 'influence', 'math', 'paralogisme', 'langue', 'tricherie', 'obstruction'] ]
     path_niveaux = ["svg/niveau%s.svg" % i for i in range(1,5)]
 
-    illustrations = []
 
     rows = csvparser.read(path_argumentum, 'fr')
     allcartes = csvparser.get_cartes(rows)
+
+    
     idx = csvparser.makeidx(allcartes)
 
-    for c in allcartes:
-        print c['f'], c['sf'], " ; " ,c['path'], ' - ',c['depth']
-    print len(allcartes), ' cartes'
+    illustrations = {}
+    for i,e in enumerate(path_illustrations):
+        soup = bs(e)
+        gs = [ g for g in soup.find_all('g') if g.attrs['id'][:1]=='%s' % (i+1) ]
+        for g in gs:
+            #del g.attrs['transform']
+            illustrations[g.attrs['id']] = g
+        print len(gs), illustrations.keys()
+    
+    
 
     # ============
     for i in range(1,7):
         cartes = [ carte for carte in allcartes if carte['depth'] == i]
+        #for c in cartes: print c['f'], c['sf'], " ; " ,c['path'], ' - ',c['depth']
         print "niveau %s" % i, len(cartes)
         if i > 4 : i = 4
         patron = readsvg(path_niveaux[ i-1 ])
         gener_svg(patron, cartes, illustrations, output)
-    
 
+    print len(allcartes), ' cartes'
+
+    html_table_a_img(allcartes)
 
 main()
