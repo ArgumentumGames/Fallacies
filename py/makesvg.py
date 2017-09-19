@@ -82,11 +82,11 @@ def gener_svg(patron, cartes, illustrations, output):
         
         set_color(soup, carte['color'])
 
-        print carte['path'],  carte['text'], carte['path'] in illustrations
+        print carte['path'],  carte['text'], "[X]" if carte['path'] in illustrations else "-"
         if carte['path'] in illustrations:
             set_illustration(carte, soup, illustrations[carte['path']])
-        else :
-            print "missing %s illustration" % carte['path']
+        #else :
+            #print "missing %s illustration" % carte['path']
         
         outpath = "%s/%s.svg" % (output, carte['path'])
         with open( outpath , 'wb') as out:
@@ -135,7 +135,7 @@ def main():
         for g in gs:
             #del g.attrs['transform']
             illustrations[g.attrs['id']] = g
-        print len(gs), illustrations.keys()
+        #print len(gs), illustrations.keys()
     
     
 
@@ -150,6 +150,6 @@ def main():
 
     print len(allcartes), ' cartes'
 
-    html_table_a_img(allcartes)
+    #html_table_a_img(allcartes)
 
 main()

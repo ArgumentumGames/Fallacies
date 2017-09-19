@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 
 from pprint import pprint
 from collections import Iterable, defaultdict
@@ -91,6 +92,7 @@ def main(src, cmd):
     from xml.etree import cElementTree as ET
     
     source = "<?xml version=\"1.0\"?>" + open(src).read()
+
     e = ET.XML(source)
 
     d = etree_to_dict(e)['map']['node']
