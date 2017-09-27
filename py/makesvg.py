@@ -82,9 +82,9 @@ def gener_svg(patron, cartes, illustrations, output):
         
         set_color(soup, carte['color'])
 
-        print carte['path'],  carte['text'], "[X]" if carte['path'] in illustrations else "-"
-        if carte['path'] in illustrations:
-            set_illustration(carte, soup, illustrations[carte['path']])
+        print carte['path'],  carte['PK'],  carte['text'], "[X]" if carte['PK'] in illustrations else "-"
+        if carte['PK'] in illustrations:
+            set_illustration(carte, soup, illustrations[carte['PK']])
         #else :
             #print "missing %s illustration" % carte['path']
         
@@ -127,15 +127,20 @@ def main():
 
     
     idx = csvparser.makeidx(allcartes)
+    idxpk = { c['PK']: c  for c in allcartes}
 
     illustrations = {}
     for i,e in enumerate(path_illustrations):
+        print i, e 
         soup = bs(e)
-        gs = [ g for g in soup.find_all('g') if g.attrs['id'][:1]=='%s' % (i+1) ]
+        gs = [ g for g in soup.find_all('g') ]
+        if len(gs) == 1 : 
+            gs = [ g for g in gs.find_all('g') ]
         for g in gs:
             #del g.attrs['transform']
             illustrations[g.attrs['id']] = g
-        #print len(gs), illustrations.keys()
+            print g.attrs['id']
+    print len(gs), "\n", sorted(illustrations.keys())
     
     
 
@@ -148,7 +153,7 @@ def main():
         patron = readsvg(path_niveaux[ i-1 ])
         gener_svg(patron, cartes, illustrations, output)
 
-    print len(allcartes), ' cartes'
+    print len(allcartes), ' cartes', len([ c for c in allcartes if c['PK'] in illustrations ]), " illustrations"
 
     #html_table_a_img(allcartes)
 

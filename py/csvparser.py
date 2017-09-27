@@ -19,7 +19,7 @@ def read(path, lang):
         path = row['path']
         row['depth'] = int(row['depth'])
 
-
+        
         f   = path[0] 
         sf  = path[:3] if len(path) >= 3 else None
         ssf = path[:5] if len(path) >= 5 else None 
