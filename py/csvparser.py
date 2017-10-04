@@ -11,15 +11,16 @@ def read(path, lang):
     # filters:
     #  * skip first for comments,
     #  * should have a path
-    rows = rows[1:]
+    rows = rows[2:]
     rows = [ e for e in rows if len(e['path']) ]
     idx = makeidx(rows)
     
     for row in rows:
         path = row['path']
+        print path
         row['depth'] = int(row['depth'])
 
-        
+    
         f   = path[0] 
         sf  = path[:3] if len(path) >= 3 else None
         ssf = path[:5] if len(path) >= 5 else None 

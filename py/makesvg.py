@@ -153,8 +153,8 @@ def main():
         patron = readsvg(path_niveaux[ i-1 ])
         gener_svg(patron, cartes, illustrations, output)
 
-    print len(allcartes), ' cartes', len([ c for c in allcartes if c['PK'] in illustrations ]), " illustrations"
-
+    print " == ", len(allcartes), ' cartes', len([ c for c in allcartes if c['PK'] in illustrations ]), " illustrations"
+    print " == missing illustrations == \n" , "\n".join([ "%s\t%s\t%s" % (c['PK'], c['path'], c['text']) for c in allcartes if c['PK'] not in illustrations ])
     #html_table_a_img(allcartes)
 
 main()
