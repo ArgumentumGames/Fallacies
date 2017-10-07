@@ -42,8 +42,39 @@ def set_illustration(carte, soup, svg):
         svgpath.attrs['style'] = style
 
     svgpath.append(svg)
-    
 
+def _set_cardlift(soup, prefix, display):
+
+        active = soup.find(attrs={'id':'%s_active' % (prefix)})
+
+        if active:
+            if display == False:
+                active.attrs['style'] += ";display:none;" 
+                
+        text = soup.find(attrs={'id':'%s' % (prefix) })
+        
+        if text :
+            color = "#1b0603" if display else "#FFFFFF" 
+            style = text.attrs['style'].lower()
+            style = re.sub("(?<=fill:)#[a-f0-9]+",  color, style )
+            text.attrs['style'] = style
+
+            if text : text = text.find('tspan')
+            text.attrs['style'] = style
+            
+def set_lifts(soup, carte):
+    tree =  [ int(e) for e in carte['path'].split('.') if len(e) ] + [0,0,0]
+    f , sf , ssf = tree[:3]
+    print tree, f , sf , ssf
+    for i in range(1, 4):
+        display =  i == sf
+        print 'sfam_%s' % i, display
+        _set_cardlift(soup, 'sfam_%s' % i, display)
+    for j in range(1, 4):
+        display =  j == ssf
+        print 'ssfam_%s' % j, display
+        _set_cardlift(soup, 'ssfam_%s' % j, display)
+            
 def set_color(soup, color):
     # corners color
     svgpath = soup.find_all('path')
@@ -81,6 +112,7 @@ def gener_svg(patron, cartes, illustrations, output):
         soup =  BeautifulSoup(xml, 'xml')
         
         set_color(soup, carte['color'])
+        set_lifts(soup, carte)
 
         print carte['path'],  carte['PK'],  carte['text'], "[X]" if carte['PK'] in illustrations else "-"
         if carte['PK'] in illustrations:
