@@ -86,7 +86,9 @@ def set_texts(carte, xml):
     # texts
     for key in KEYS :
         if key in carte:
-            xml = re.sub("!%s"% key, carte[key] , xml)
+            value = carte[key]
+            if key == "fam_num" : value = str(carte['depth'])
+            xml = re.sub("!%s"% key, value , xml)
     return xml
     
 def set_illustration(carte, soup, svg):
