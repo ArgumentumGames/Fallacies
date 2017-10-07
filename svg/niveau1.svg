@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="-361.29129"
-     inkscape:cy="244.15818"
+     inkscape:zoom="1.4"
+     inkscape:cx="199.79461"
+     inkscape:cy="309.26972"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,7 +35,14 @@
      inkscape:window-height="876"
      inkscape:window-x="65"
      inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="179.99999,58.571426"
+       orientation="0,1"
+       id="guide3362" />
+  </sodipodi:namedview>
   <metadata
      id="metadata6784">
     <rdf:RDF>
@@ -120,12 +127,13 @@
        x="36.564697"
        y="514.08514"
        id="fam_num"
-       inkscape:label="#text5665-3-4-9-4-3-3-5-7-5-8-9-6-9-5-3-7-9"><tspan
+       inkscape:label="#text5665-3-4-9-4-3-3-5-7-5-8-9-6-9-5-3-7-9"
+       sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan5667-04-4-6-18-8-8-0-0-1-5-8-4-4-0-7-2-4"
          x="36.564697"
          y="514.08514"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:STIX;-inkscape-font-specification:'STIX Bold';fill:#ffffff">!fam_num</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:STIX;-inkscape-font-specification:'STIX Bold';fill:#ffffff">!depth</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.83799982;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect13148-3-36-0-1-20"
@@ -215,12 +223,12 @@
          id="flowRegion5390-2-2-5-6-3-9-94-3-17-8-6-9-1-6-0-9-6-1-5-38"><rect
            id="rect5392-7-0-4-8-6-2-8-5-7-1-2-6-5-5-9-91-21-0-2-3"
            width="267.68024"
-           height="47.283955"
+           height="50.141098"
            x="-123.22692"
-           y="-557.27393"
+           y="-595.84534"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:100%;font-family:STIX;-inkscape-font-specification:'STIX Bold';text-align:center;text-anchor:middle;fill:#1b0603;fill-opacity:1;stroke-width:0.57360059" /></flowRegion><flowPara
          id="flowPara5394-0-2-4-9-0-06-12-6-9-2-2-4-4-0-4-4-2-1-0-2"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:STIX;-inkscape-font-specification:'STIX Bold Italic';text-align:center;text-anchor:middle;fill:#1b0603;fill-opacity:1">!example</flowPara></flowRoot>    <g
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:STIX;-inkscape-font-specification:'STIX Italic';text-align:center;text-anchor:middle;fill:#1b0603;fill-opacity:1">!example</flowPara></flowRoot>    <g
        id="illustration"
        inkscape:groupmode="layer"
        inkscape:label="#illustration"

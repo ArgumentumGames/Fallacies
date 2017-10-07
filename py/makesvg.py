@@ -125,14 +125,14 @@ def set_lifts(soup, carte):
     
     tree =  [ int(e) for e in carte['path'].split('.') if len(e) ] + [0,0,0]
     f , sf , ssf = tree[:3]
-    print tree, f , sf , ssf
+    #print tree, f , sf , ssf
     for i in range(1, 4):
         display =  i == sf
         print 'sfam_%s' % i, display
         _set_cardlift(soup, carte, 'sfam_%s' % i, display)
     for j in range(1, 4):
         display =  j == ssf
-        print 'ssfam_%s' % j, display
+        #print 'ssfam_%s' % j, display
         _set_cardlift(soup, carte, 'ssfam_%s' % j, display)
             
 def set_color(soup, carte):
@@ -165,12 +165,37 @@ def set_color(soup, carte):
         style = re.sub("(?<=stroke:)#[A-Fa-f0-9]+", colors['oval'], style )
         oval.attrs['style'] = style
 
-    # card title
-    title = soup.find(attrs={'id':'text'})
-    style = title.attrs['style'].lower()
+    # card title    
+    text = soup.find(attrs={'id':'text'})
+    style = text.attrs['style'].lower()
     style = re.sub("(?<=fill:)#[a-f0-9]+",  colors['title'], style )
-    #style = re.sub("(?<=stroke:)#[A-Fa-f0-9]+", colors['title'], style )
-    title.attrs['style'] = style
+    text.attrs['style'] = style
+    text = text.find('tspan')
+    style = text.attrs['style'].lower()
+    style = re.sub("(?<=fill:)#[a-f0-9]+",  colors['title'], style )
+    text.attrs['style'] = style
+
+    # fam text
+    text = soup.find(attrs={'id':'fam_text'})
+    if text :
+        style = text.attrs['style'].lower()
+        style = re.sub("(?<=fill:)#[a-f0-9]+",  colors['text'], style )
+        text.attrs['style'] = style
+        text = text.find('tspan')
+        style = text.attrs['style'].lower()
+        style = re.sub("(?<=fill:)#[a-f0-9]+",  colors['text'], style )
+        text.attrs['style'] = style
+
+    for e in [ "example", "desc" ]:
+        text = soup.find(attrs={'id': e })
+        style = text.attrs['style'].lower()
+        style = re.sub("(?<=fill:)#[a-f0-9]+",  colors['text'], style )
+        text.attrs['style'] = style
+        text = text.find('flowPara')
+        style = text.attrs['style'].lower()
+        style = re.sub("(?<=fill:)#[a-f0-9]+",  colors['text'], style )
+        text.attrs['style'] = style
+
 
     
 
@@ -182,11 +207,11 @@ def gener_svg(patron, cartes, illustrations, output):
         xml = set_texts(carte, xml)
 
         soup =  BeautifulSoup(xml, 'xml')
+        print carte['path'],  carte['PK'],  carte['text'], "[X]" if carte['PK'] in illustrations else "-"
         
         set_color(soup, carte)
         set_lifts(soup, carte)
 
-        print carte['path'],  carte['PK'],  carte['text'], "[X]" if carte['PK'] in illustrations else "-"
         if carte['PK'] in illustrations:
             set_illustration(carte, soup, illustrations[carte['PK']])
         #else :
@@ -243,7 +268,7 @@ def main():
         for g in gs:
             #del g.attrs['transform']
             illustrations[g.attrs['id']] = g
-            print g.attrs['id']
+            #print g.attrs['id']
     print len(gs), "\n", sorted(illustrations.keys())
     
     

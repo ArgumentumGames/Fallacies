@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9050967"
-     inkscape:cx="262.38735"
-     inkscape:cy="252.20747"
+     inkscape:zoom="2.5600001"
+     inkscape:cx="82.86021"
+     inkscape:cy="90.675925"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,6 +46,10 @@
        position="32.869415,443.32278"
        orientation="1,0"
        id="guide4176" />
+    <sodipodi:guide
+       position="74.609371,53.124996"
+       orientation="0,1"
+       id="guide3376" />
   </sodipodi:namedview>
   <metadata
      id="metadata6784">
@@ -167,7 +171,7 @@
          id="tspan5667-04-4-6-18-8-8-0-0-1-5-7-0-9-2-1-9-1"
          x="41.492676"
          y="513.47742"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:STIX;-inkscape-font-specification:'STIX Bold';fill:#ffffff">!fam_num</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:1.25;font-family:STIX;-inkscape-font-specification:'STIX Bold';fill:#ffffff">!depth</tspan></text>
     <text
        sodipodi:linespacing="0%"
        transform="matrix(0,-1,1,0,0,0)"
@@ -315,9 +319,9 @@
          id="flowRegion5390-2-2-5-6-3-9-94-3-17-8-6-9-1-6-0-9-6-1-59"><rect
            id="rect5392-7-0-4-8-6-2-8-5-7-1-2-6-5-5-9-91-21-0-4"
            width="267.68024"
-           height="47.953594"
+           height="40.141094"
            x="-123.22692"
-           y="-557.27393"
+           y="-585.78955"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:100%;font-family:STIX;-inkscape-font-specification:'STIX Bold';text-align:center;text-anchor:middle;fill:#1b0603;fill-opacity:1;stroke-width:0.57764798" /></flowRegion><flowPara
          id="flowPara5394-0-2-4-9-0-06-12-6-9-2-2-4-4-0-4-4-2-1-8"
          style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:STIX;-inkscape-font-specification:'STIX Bold Italic';text-align:center;text-anchor:middle;fill:#1b0603;fill-opacity:1">!example</flowPara></flowRoot>    <g
