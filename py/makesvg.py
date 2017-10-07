@@ -169,10 +169,11 @@ def set_color(soup, carte):
     style = text.attrs['style'].lower()
     style = re.sub("(?<=fill:)#[a-f0-9]+",  colors['title'], style )
     text.attrs['style'] = style
-    text = text.find('tspan')
-    style = text.attrs['style'].lower()
-    style = re.sub("(?<=fill:)#[a-f0-9]+",  colors['title'], style )
-    text.attrs['style'] = style
+    text = text.find_all('tspan')
+    for t in text:
+        style = t.attrs['style'].lower()
+        style = re.sub("(?<=fill:)#[a-f0-9]+",  colors['title'], style )
+        t.attrs['style'] = style
 
     # fam text
     text = soup.find(attrs={'id':'fam_text'})
