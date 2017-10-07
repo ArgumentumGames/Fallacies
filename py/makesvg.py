@@ -4,7 +4,7 @@ import csvparser
 from bs4 import BeautifulSoup
 
 
-KEYS = ['fam_num', 'fam_text',
+KEYS = ['fam_num', 'fam_text', 'depth',
             'text', 'txt1', 'txt2', 'desc', 'example',
             'sfam_1', 'sfam_2', 'sfam_3',
             'ssfam_1', 'ssfam_2', 'ssfam_3' ]
@@ -86,8 +86,7 @@ def set_texts(carte, xml):
     # texts
     for key in KEYS :
         if key in carte:
-            value = carte[key]
-            if key == "fam_num" : value = str(carte['depth'])
+            value = str(carte[key])
             xml = re.sub("!%s"% key, value , xml)
     return xml
     
