@@ -14,7 +14,7 @@
    viewBox="0 0 338.49999 540.09995"
    id="svg6779"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="niveau3.svg">
   <defs
      id="defs6781" />
@@ -26,22 +26,23 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7430741"
-     inkscape:cx="68.057618"
-     inkscape:cy="219.11238"
+     inkscape:cx="128.86972"
+     inkscape:cy="127.32053"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1535"
-     inkscape:window-height="876"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-width="1366"
+     inkscape:window-height="728"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
     <sodipodi:guide
        position="145.14586,53.354012"
        orientation="0,1"
-       id="guide3375" />
+       id="guide3375"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata6784">
@@ -122,14 +123,13 @@
        transform="matrix(0,1,-1,0,0,0)"
        inkscape:label="#rect13148-3-0-9-3-80-7-76" />
     <text
-       transform="matrix(0,-1,1,0,0,0)"
+       transform="rotate(-90)"
        id="sfam_3"
        y="222.6371"
        x="-113.58095"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:0%;font-family:STIX;-inkscape-font-specification:'STIX, Bold';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#1b0603;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:STIX;-inkscape-font-specification:'STIX, Bold';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#1b0603;fill-opacity:1;stroke:none"
        xml:space="preserve"
-       inkscape:label="#text4212-1-29-1-2-8-9-0-9-6-9-8-3-1-0-6-8-0-4-2-3-6-9-3-6-2-6-4"
-       sodipodi:linespacing="0%"><tspan
+       inkscape:label="#text4212-1-29-1-2-8-9-0-9-6-9-8-3-1-0-6-8-0-4-2-3-6-9-3-6-2-6-4"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:STIX;-inkscape-font-specification:'STIX, Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#1b0603;fill-opacity:1;stroke:none"
          y="222.6371"
          x="-113.58095"
@@ -148,7 +148,6 @@
        id="rect5818-6-6-9-3-0"
        style="fill:#ff2408;fill-opacity:1;stroke:none;stroke-width:0.91443771;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
-       sodipodi:linespacing="0%"
        inkscape:label="#text5665-3-4-9-4-3-3-5-7-5-8-4-6-8-6-6-3-0-6-3"
        id="fam_num"
        y="578.73279"
@@ -188,25 +187,23 @@
        id="ssfam_3_active"
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.83799982;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
-       sodipodi:linespacing="0%"
        inkscape:label="#text4212-1-29-1-2-8-9-0-9-6-9-15-4-9-9-24-4-6-7-5-4-2-6-9"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:0%;font-family:STIX;-inkscape-font-specification:'STIX, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:STIX;-inkscape-font-specification:'STIX, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="-333.20343"
        y="222.81581"
        id="sfam_2"
-       transform="matrix(0,-1,1,0,0,0)"><tspan
+       transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan4214-27-1-2-9-7-6-4-1-1-1-9-8-7-7-0-88-0-1-6-8-0-3-2"
          x="-333.20343"
          y="222.81581"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:STIX;-inkscape-font-specification:'STIX, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle">!sfam_2</tspan></text>
     <text
-       sodipodi:linespacing="0%"
        inkscape:label="#text4212-1-29-1-2-8-9-0-9-6-9-8-3-1-0-6-92-3-6-9-3-6-2-3-39-8-5"
-       transform="matrix(0,1,-1,0,0,0)"
+       transform="rotate(90)"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:0%;font-family:STIX;-inkscape-font-specification:'STIX, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#500000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:STIX;-inkscape-font-specification:'STIX, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#500000;fill-opacity:1;stroke:none"
        x="112.96895"
        y="-499.04208"
        id="ssfam_3"><rect
@@ -233,11 +230,10 @@
        id="rect13148-3-3-2-4-1-4-5"
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.83799982;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
-       sodipodi:linespacing="0%"
        inkscape:label="#text4212-1-29-1-2-8-9-0-9-6-9-15-7-7-8-9-7-6-1-0-8-29-4"
-       transform="matrix(0,1,-1,0,0,0)"
+       transform="rotate(90)"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:0%;font-family:STIX;-inkscape-font-specification:'STIX, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:STIX;-inkscape-font-specification:'STIX, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="332.53967"
        y="-500.14215"
        id="ssfam_2"><tspan
@@ -247,11 +243,10 @@
          y="-500.14215"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:STIX;-inkscape-font-specification:'STIX, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle">!ssfam_2</tspan></text>
     <text
-       sodipodi:linespacing="0%"
        inkscape:label="#text4212-1-29-1-2-8-9-0-9-6-9-17-63-3-97-3-6-4-4-8-73-9-92"
-       transform="matrix(0,1,-1,0,0,0)"
+       transform="rotate(90)"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:0%;font-family:STIX;-inkscape-font-specification:'STIX, Bold';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#1b0603;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:STIX;-inkscape-font-specification:'STIX, Bold';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#1b0603;fill-opacity:1;stroke:none"
        x="552.16217"
        y="-498.74182"
        id="ssfam_1"><tspan
@@ -270,7 +265,6 @@
        id="rect13148-3-3-2-4-1-4-5-3"
        style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.83799982;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
-       sodipodi:linespacing="0%"
        inkscape:label="#text5516-78-3-4-89-9-1-3-6-2-4-3-9-5-3-7-7-2-6-1-6-5-0-5-7"
        id="text"
        y="103.33736"
@@ -288,26 +282,24 @@
          x="360.1904"
          sodipodi:role="line">!txt2</tspan></text>
     <text
-       sodipodi:linespacing="0%"
        inkscape:label="#text4212-1-29-1-2-8-9-0-9-6-9-17-4-1-5-6-8-7-5-1-12-0-9-54"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:0%;font-family:STIX;-inkscape-font-specification:'STIX, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:STIX;-inkscape-font-specification:'STIX, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
        x="-552.40967"
        y="222.81581"
        id="sfam_1"
-       transform="matrix(0,-1,1,0,0,0)"><tspan
+       transform="rotate(-90)"><tspan
          sodipodi:role="line"
          id="tspan4214-27-1-2-9-7-6-4-1-1-1-85-8-3-3-2-9-0-8-7-9-6-4-0"
          x="-552.40967"
          y="222.81581"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:1.25;font-family:STIX;-inkscape-font-specification:'STIX, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">!sfam_1</tspan></text>
     <text
-       sodipodi:linespacing="0%"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:0%;font-family:STIX;-inkscape-font-specification:'STIX, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#1b0603;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:STIX;-inkscape-font-specification:'STIX, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#1b0603;fill-opacity:1;stroke:none"
        x="360.3353"
        y="578.3678"
-       id="text4212-1-29-1-2-8-9-0-9-67-9-6-3-5-23-0-1-7-3-2-3-4-7-8-8-8-4"><tspan
+       id="fam_text"><tspan
          id="tspan3846"
          sodipodi:role="line"
          x="360.3353"
